@@ -65,7 +65,7 @@
         {
           "input": "male",
           "inputType": "wholewords",
-          "output": "Female",
+          "output": "female",
           "caseSensitive": true
         },
         {
