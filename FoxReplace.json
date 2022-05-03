@@ -177,6 +177,18 @@
           "caseSensitive": true
         },
         {
+          "input": "sons",
+          "inputType": "wholewords",
+          "output": "daughters",
+          "caseSensitive": true
+        },
+        {
+          "input": "Sons",
+          "inputType": "wholewords",
+          "output": "Daughters",
+          "caseSensitive": true
+        },
+        {
           "input": "uncle",
           "inputType": "wholewords",
           "output": "aunt",
