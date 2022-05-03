@@ -459,7 +459,7 @@
           "input":"Mark",
           "inputType":"wholewords",
           "output":"Martha",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Martin",
