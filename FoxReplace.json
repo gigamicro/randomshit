@@ -141,6 +141,18 @@
           "caseSensitive": true
         },
         {
+          "input": "brothers",
+          "inputType": "wholewords",
+          "output": "sisters",
+          "caseSensitive": true
+        },
+        {
+          "input": "Brothers",
+          "inputType": "wholewords",
+          "output": "Sisters",
+          "caseSensitive": true
+        },
+        {
           "input": "guy",
           "inputType": "wholewords",
           "output": "girl",
