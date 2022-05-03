@@ -123,6 +123,18 @@
           "caseSensitive": true
         },
         {
+          "input": "brotherhood",
+          "inputType": "wholewords",
+          "output": "sisterhood",
+          "caseSensitive": true
+        },
+        {
+          "input": "Brotherhood",
+          "inputType": "wholewords",
+          "output": "Sisterhood",
+          "caseSensitive": true
+        },
+        {
           "input": "guy",
           "inputType": "wholewords",
           "output": "girl",
