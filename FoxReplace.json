@@ -102,31 +102,61 @@
           "input": "boys",
           "inputType": "wholewords",
           "output": "girls",
-          "caseSensitive": false
+          "caseSensitive": true
+        },
+        {
+          "input": "Boys",
+          "inputType": "wholewords",
+          "output": "Girls",
+          "caseSensitive": true
         },
         {
           "input": "brother",
           "inputType": "wholewords",
           "output": "sister",
-          "caseSensitive": false
+          "caseSensitive": true
+        },
+        {
+          "input": "Brother",
+          "inputType": "wholewords",
+          "output": "Sister",
+          "caseSensitive": true
         },
         {
           "input": "guy",
           "inputType": "wholewords",
           "output": "girl",
-          "caseSensitive": false
+          "caseSensitive": true
+        },
+        {
+          "input": "Guy",
+          "inputType": "wholewords",
+          "output": "Girl",
+          "caseSensitive": true
         },
         {
           "input": "son",
           "inputType": "wholewords",
           "output": "daughter",
-          "caseSensitive": false
+          "caseSensitive": true
+        },
+        {
+          "input": "Son",
+          "inputType": "wholewords",
+          "output": "Daughter",
+          "caseSensitive": true
         },
         {
           "input": "uncle",
           "inputType": "wholewords",
           "output": "aunt",
-          "caseSensitive": false
+          "caseSensitive": true
+        },
+        {
+          "input": "Uncle",
+          "inputType": "wholewords",
+          "output": "Aunt",
+          "caseSensitive": true
         },
         {
           "input": "Mr",
