@@ -57,6 +57,12 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\bmis)ter\\b",
+          "inputType": "regex",
+          "output": "s",
+          "caseSensitive": false
+        },
+        {
           "input": "Male",
           "inputType": "wholewords",
           "output": "Female",
