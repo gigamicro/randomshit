@@ -1,0 +1,137 @@
+{
+  "version": "2.1",
+  "groups": [
+    {
+      "name": "Feminize pronouns",
+      "urls": [],
+      "substitutions": [
+        {
+          "input": "(?<=\\bh)im\\b",
+          "inputType": "regexp",
+          "output": "er",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\bh)imself\\b",
+          "inputType": "regexp",
+          "output": "erself",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\bh)is\\b",
+          "inputType": "regexp",
+          "output": "er",
+          "caseSensitive": false
+        },
+        {
+          "input": "He",
+          "inputType": "wholewords",
+          "output": "She",
+          "caseSensitive": true
+        },
+        {
+          "input": "he",
+          "inputType": "wholewords",
+          "output": "she",
+          "caseSensitive": true
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    },
+    {
+      "name": "Feminize titles",
+      "urls": [],
+      "substitutions": [
+        {
+          "input": "(?<=\\bg)uy\\b",
+          "inputType": "regexp",
+          "output": "irl",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\bgentle)man\\b",
+          "inputType": "regexp",
+          "output": "woman",
+          "caseSensitive": false
+        },
+        {
+          "input": "Male",
+          "inputType": "wholewords",
+          "output": "Female",
+          "caseSensitive": true
+        },
+        {
+          "input": "male",
+          "inputType": "wholewords",
+          "output": "Female",
+          "caseSensitive": true
+        },
+        {
+          "input": "Man",
+          "inputType": "wholewords",
+          "output": "Woman",
+          "caseSensitive": true
+        },
+        {
+          "input": "man",
+          "inputType": "wholewords",
+          "output": "woman",
+          "caseSensitive": true
+        },
+        {
+          "input": "Men",
+          "inputType": "wholewords",
+          "output": "Women",
+          "caseSensitive": true
+        },
+        {
+          "input": "men",
+          "inputType": "wholewords",
+          "output": "women",
+          "caseSensitive": true
+        },
+        {
+          "input": "boy",
+          "inputType": "wholewords",
+          "output": "girl",
+          "caseSensitive": true
+        },
+        {
+          "input": "boys",
+          "inputType": "wholewords",
+          "output": "girls",
+          "caseSensitive": false
+        },
+        {
+          "input": "brother",
+          "inputType": "wholewords",
+          "output": "sister",
+          "caseSensitive": false
+        },
+        {
+          "input": "guy",
+          "inputType": "wholewords",
+          "output": "girl",
+          "caseSensitive": false
+        },
+        {
+          "input": "son",
+          "inputType": "wholewords",
+          "output": "daughter",
+          "caseSensitive": false
+        },
+        {
+          "input": "uncle",
+          "inputType": "wholewords",
+          "output": "aunt",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    }
+  ]
+}
