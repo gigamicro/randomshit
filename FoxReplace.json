@@ -582,6 +582,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Bobby",
+          "inputType":"wholewords",
+          "output":"Vivi",
+          "caseSensitive":false
+        },
+        {
           "input":"Rob",
           "inputType":"wholewords",
           "output":"Robyn",
