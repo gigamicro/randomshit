@@ -127,6 +127,12 @@
           "inputType": "wholewords",
           "output": "aunt",
           "caseSensitive": false
+        },
+        {
+          "input": "Mr",
+          "inputType": "wholewords",
+          "output": "Ms",
+          "caseSensitive": true
         }
       ],
       "html": "none",
