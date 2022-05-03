@@ -193,6 +193,42 @@
           "inputType": "wholewords",
           "output": "Girlfriend",
           "caseSensitive": true
+        },
+        {
+          "input": "father",
+          "inputType": "wholewords",
+          "output": "mother",
+          "caseSensitive": true
+        },
+        {
+          "input": "Father",
+          "inputType": "wholewords",
+          "output": "Mother",
+          "caseSensitive": true
+        },
+        {
+          "input": "dad",
+          "inputType": "wholewords",
+          "output": "mom",
+          "caseSensitive": true
+        },
+        {
+          "input": "Dad",
+          "inputType": "wholewords",
+          "output": "Mom",
+          "caseSensitive": true
+        },
+        {
+          "input": "daddy",
+          "inputType": "wholewords",
+          "output": "mommy",
+          "caseSensitive": true
+        },
+        {
+          "input": "Daddy",
+          "inputType": "wholewords",
+          "output": "Mommy",
+          "caseSensitive": true
         }
       ],
       "html": "none",
