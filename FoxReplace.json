@@ -175,6 +175,18 @@
           "inputType": "wholewords",
           "output": "Ms",
           "caseSensitive": true
+        },
+        {
+          "input": "boyfriend",
+          "inputType": "wholewords",
+          "output": "girlfriend",
+          "caseSensitive": true
+        },
+        {
+          "input": "Boyfriend",
+          "inputType": "wholewords",
+          "output": "Girlfriend",
+          "caseSensitive": true
         }
       ],
       "html": "none",
