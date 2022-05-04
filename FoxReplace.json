@@ -66,9 +66,21 @@
           "caseSensitive": false
         },
         {
+          "input": "to master",
+          "inputType": "wholewords",
+          "output": "tomaster",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\bm)aster\\b",
           "inputType": "regexp",
           "output": "istress",
+          "caseSensitive": false
+        },
+        {
+          "input": "tomaster",
+          "inputType": "wholewords",
+          "output": "to master",
           "caseSensitive": false
         },
         {
