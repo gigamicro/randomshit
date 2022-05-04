@@ -87,13 +87,13 @@
           "input": "(?<=\\bmil)ord\\b",
           "inputType": "regexp",
           "output": "ady",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "(?<=\\bl)ord(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "ady",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)pa(?=s?\\b)",
