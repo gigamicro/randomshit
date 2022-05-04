@@ -292,6 +292,30 @@
           "inputType": "wholewords",
           "output": "Mommy",
           "caseSensitive": true
+        },
+        {
+          "input": "poppa",
+          "inputType": "wholewords",
+          "output": "Momma",
+          "caseSensitive": true
+        },
+        {
+          "input": "Poppa",
+          "inputType": "wholewords",
+          "output": "Momma",
+          "caseSensitive": true
+        },
+        {
+          "input": "papa",
+          "inputType": "wholewords",
+          "output": "Mama",
+          "caseSensitive": true
+        },
+        {
+          "input": "Papa",
+          "inputType": "wholewords",
+          "output": "Mama",
+          "caseSensitive": true
         }
       ],
       "html": "none",
