@@ -1,7 +1,7 @@
 {
-  // heya, this is a fun project for the FoxReplace
-  //  browser extension that girls the entire internet
-  // contribute iyw, especially names, or just use it for fun, idc
+  "c1": "heya, this is a fun project for the FoxReplace",
+  "c1.1": "browser extension that girls the entire internet",
+  "c2": "contribute iyw, especially names, or just use it for fun, idc",
   "version": "2.1",
   "groups": [
     {
