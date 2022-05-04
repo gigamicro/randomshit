@@ -63,6 +63,18 @@
           "caseSensitive": false
         },
         {
+          "input": "(<=\\bmil)ord\b",
+          "inputtype": "regexp",
+          "output": "ady",
+          "casesensitive": true
+        },
+        {
+          "input": "(<=\\bl)ord\b",
+          "inputtype": "regexp",
+          "output": "ady",
+          "casesensitive": true
+        },
+        {
           "input": "Male",
           "inputType": "wholewords",
           "output": "Female",
