@@ -96,13 +96,13 @@
           "casesensitive": true
         },
         {
-          "input": "(?<=\\bgrand)father(?=s?\\b)",
+          "input": "(?<=\\bgrand)pa(?=s?\\b)",
           "inputtype": "regexp",
-          "output": "mother",
+          "output": "ma",
           "casesensitive": true
         },
         {
-          "input": "(?<=\\bgrand)pa(?=s?\\b)",
+          "input": "(?<=\\bgrand)papa(?=s?\\b)",
           "inputtype": "regexp",
           "output": "ma",
           "casesensitive": true
@@ -256,6 +256,18 @@
           "inputType": "wholewords",
           "output": "Ms",
           "caseSensitive": true
+        },
+        {
+          "input": "sir",
+          "inputtype": "wholewords",
+          "output": "maam",
+          "casesensitive": true
+        },
+        {
+          "input": "Sir",
+          "inputtype": "wholewords",
+          "output": "Maam",
+          "casesensitive": true
         },
         {
           "input": "daddy",
