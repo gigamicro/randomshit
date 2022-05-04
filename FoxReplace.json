@@ -1053,6 +1053,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Leo",
+          "inputType":"wholewords",
+          "output":"Nora",
+          "caseSensitive":false
+        },
+        {
           "input":"Leroy",
           "inputType":"wholewords",
           "output":"Leah",
