@@ -204,6 +204,24 @@
           "caseSensitive": true
         },
         {
+          "input": "Daad",
+          "inputType": "wholewords",
+          "output": "Moom",
+          "caseSensitive": true
+        },
+        {
+          "input": "Daaad",
+          "inputType": "wholewords",
+          "output": "Mooom",
+          "caseSensitive": true
+        },
+        {
+          "input": "Daaaad",
+          "inputType": "wholewords",
+          "output": "Moooom",
+          "caseSensitive": true
+        },
+        {
           "input": "Male",
           "inputType": "wholewords",
           "output": "Female",
