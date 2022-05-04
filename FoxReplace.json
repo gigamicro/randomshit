@@ -168,7 +168,7 @@
           "caseSensitive": true
         },
         {
-          "input": "\\bfather(?=s?\\b)",
+          "input": "(?<=\\b(?:grand-?)*)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
