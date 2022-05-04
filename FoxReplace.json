@@ -369,6 +369,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Tony",
+          "inputType":"wholewords",
+          "output":"Tonya",
+          "caseSensitive":false
+        },
+        {
           "input":"Antoine",
           "inputType":"wholewords",
           "output":"Antoinette",
