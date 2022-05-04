@@ -1011,6 +1011,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Leonard",
+          "inputType":"wholewords",
+          "output":"Lenore",
+          "caseSensitive":false
+        },
+        {
           "input":"Leroy",
           "inputType":"wholewords",
           "output":"Leah",
@@ -1302,6 +1308,12 @@
           "input":"Sean",
           "inputType":"wholewords",
           "output":"Shauna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Sebastian",
+          "inputType":"wholewords",
+          "output":"Sebastiane",
           "caseSensitive":false
         },
         {
