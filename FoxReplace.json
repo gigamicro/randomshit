@@ -93,42 +93,6 @@
           "casesensitive": true
         },
         {
-          "input": "Male",
-          "inputType": "wholewords",
-          "output": "Female",
-          "caseSensitive": true
-        },
-        {
-          "input": "male",
-          "inputType": "wholewords",
-          "output": "female",
-          "caseSensitive": true
-        },
-        {
-          "input": "Man",
-          "inputType": "wholewords",
-          "output": "Woman",
-          "caseSensitive": true
-        },
-        {
-          "input": "man",
-          "inputType": "wholewords",
-          "output": "woman",
-          "caseSensitive": true
-        },
-        {
-          "input": "Men",
-          "inputType": "wholewords",
-          "output": "Women",
-          "caseSensitive": true
-        },
-        {
-          "input": "men",
-          "inputType": "wholewords",
-          "output": "women",
-          "caseSensitive": true
-        },
-        {
           "input": "\\bboy(?=s\\b)",
           "inputType": "regexp",
           "output": "girl",
@@ -153,30 +117,6 @@
           "caseSensitive": true
         },
         {
-          "input": "brotherhood",
-          "inputType": "wholewords",
-          "output": "sisterhood",
-          "caseSensitive": true
-        },
-        {
-          "input": "Brotherhood",
-          "inputType": "wholewords",
-          "output": "Sisterhood",
-          "caseSensitive": true
-        },
-        {
-          "input": "guy",
-          "inputType": "wholewords",
-          "output": "girl",
-          "caseSensitive": true
-        },
-        {
-          "input": "Guy",
-          "inputType": "wholewords",
-          "output": "Girl",
-          "caseSensitive": true
-        },
-        {
           "input": "\\bson(?=s\\b)",
           "inputType": "regexp",
           "output": "daughter",
@@ -198,12 +138,6 @@
           "input": "\\bUncle(?=s\\b)",
           "inputType": "regexp",
           "output": "Aunt",
-          "caseSensitive": true
-        },
-        {
-          "input": "Mr",
-          "inputType": "wholewords",
-          "output": "Ms",
           "caseSensitive": true
         },
         {
@@ -240,6 +174,72 @@
           "input": "\\bDad(?=s\\b)",
           "inputType": "regexp",
           "output": "Mom",
+          "caseSensitive": true
+        },
+        {
+          "input": "Male",
+          "inputType": "wholewords",
+          "output": "Female",
+          "caseSensitive": true
+        },
+        {
+          "input": "male",
+          "inputType": "wholewords",
+          "output": "female",
+          "caseSensitive": true
+        },
+        {
+          "input": "Man",
+          "inputType": "wholewords",
+          "output": "Woman",
+          "caseSensitive": true
+        },
+        {
+          "input": "man",
+          "inputType": "wholewords",
+          "output": "woman",
+          "caseSensitive": true
+        },
+        {
+          "input": "Men",
+          "inputType": "wholewords",
+          "output": "Women",
+          "caseSensitive": true
+        },
+        {
+          "input": "men",
+          "inputType": "wholewords",
+          "output": "women",
+          "caseSensitive": true
+        },
+        {
+          "input": "brotherhood",
+          "inputType": "wholewords",
+          "output": "sisterhood",
+          "caseSensitive": true
+        },
+        {
+          "input": "Brotherhood",
+          "inputType": "wholewords",
+          "output": "Sisterhood",
+          "caseSensitive": true
+        },
+        {
+          "input": "guy",
+          "inputType": "wholewords",
+          "output": "girl",
+          "caseSensitive": true
+        },
+        {
+          "input": "Guy",
+          "inputType": "wholewords",
+          "output": "Girl",
+          "caseSensitive": true
+        },
+        {
+          "input": "Mr",
+          "inputType": "wholewords",
+          "output": "Ms",
           "caseSensitive": true
         },
         {
