@@ -84,25 +84,25 @@
           "caseSensitive": false
         },
         {
-          "input": "(<=\\bmil)ord\\b",
+          "input": "(?<=\\bmil)ord\\b",
           "inputtype": "regexp",
           "output": "ady",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bl)ord(?=s?\\b)",
+          "input": "(?<=\\bl)ord(?=s?\\b)",
           "inputtype": "regexp",
           "output": "ady",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bgrand)father(?=s?\\b)",
+          "input": "(?<=\\bgrand)father(?=s?\\b)",
           "inputtype": "regexp",
           "output": "mother",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bgrand)pa(?=s?\\b)",
+          "input": "(?<=\\bgrand)pa(?=s?\\b)",
           "inputtype": "regexp",
           "output": "ma",
           "casesensitive": true
