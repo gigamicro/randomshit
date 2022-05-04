@@ -58,36 +58,36 @@
         },
         {
           "input": "(?<=\\bmis)ter\\b",
-          "inputType": "regex",
+          "inputType": "regexp",
           "output": "s",
           "caseSensitive": false
         },
         {
           "input": "(?<=\\bm)aster\\b",
-          "inputType": "regex",
+          "inputType": "regexp",
           "output": "istress",
           "caseSensitive": false
         },
         {
-          "input": "(<=\\bmil)ord\b",
+          "input": "(<=\\bmil)ord\\b",
           "inputtype": "regexp",
           "output": "ady",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bl)ord(?=s\b)",
+          "input": "(<=\\bl)ord(?=s\\b)",
           "inputtype": "regexp",
           "output": "ady",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bgrand)father(?=s\b)",
+          "input": "(<=\\bgrand)father(?=s\\b)",
           "inputtype": "regexp",
           "output": "mother",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bgrand)pa(?=s\b)",
+          "input": "(<=\\bgrand)pa(?=s\\b)",
           "inputtype": "regexp",
           "output": "ma",
           "casesensitive": true
@@ -129,32 +129,26 @@
           "caseSensitive": true
         },
         {
-          "input": "boy",
-          "inputType": "wholewords",
+          "input": "\\bboy(?=s\\b)",
+          "inputType": "regexp",
           "output": "girl",
           "caseSensitive": true
         },
         {
-          "input": "boys",
-          "inputType": "wholewords",
-          "output": "girls",
+          "input": "\\bBoy(?=s\\b)",
+          "inputType": "regexp",
+          "output": "Girl",
           "caseSensitive": true
         },
         {
-          "input": "Boys",
-          "inputType": "wholewords",
-          "output": "Girls",
-          "caseSensitive": true
-        },
-        {
-          "input": "brother",
-          "inputType": "wholewords",
+          "input": "\\bbrother(?=s\\b)",
+          "inputType": "regexp",
           "output": "sister",
           "caseSensitive": true
         },
         {
-          "input": "Brother",
-          "inputType": "wholewords",
+          "input": "\\bBrother(?=s\\b)",
+          "inputType": "regexp",
           "output": "Sister",
           "caseSensitive": true
         },
@@ -171,18 +165,6 @@
           "caseSensitive": true
         },
         {
-          "input": "brothers",
-          "inputType": "wholewords",
-          "output": "sisters",
-          "caseSensitive": true
-        },
-        {
-          "input": "Brothers",
-          "inputType": "wholewords",
-          "output": "Sisters",
-          "caseSensitive": true
-        },
-        {
           "input": "guy",
           "inputType": "wholewords",
           "output": "girl",
@@ -195,38 +177,26 @@
           "caseSensitive": true
         },
         {
-          "input": "son",
-          "inputType": "wholewords",
+          "input": "\\bson(?=s\\b)",
+          "inputType": "regexp",
           "output": "daughter",
           "caseSensitive": true
         },
         {
-          "input": "Son",
-          "inputType": "wholewords",
+          "input": "\\bSon(?=s\\b)",
+          "inputType": "regexp",
           "output": "Daughter",
           "caseSensitive": true
         },
         {
-          "input": "sons",
-          "inputType": "wholewords",
-          "output": "daughters",
-          "caseSensitive": true
-        },
-        {
-          "input": "Sons",
-          "inputType": "wholewords",
-          "output": "Daughters",
-          "caseSensitive": true
-        },
-        {
-          "input": "uncle",
-          "inputType": "wholewords",
+          "input": "\\buncle(?=s\\b)",
+          "inputType": "regexp",
           "output": "aunt",
           "caseSensitive": true
         },
         {
-          "input": "Uncle",
-          "inputType": "wholewords",
+          "input": "\\bUncle(?=s\\b)",
+          "inputType": "regexp",
           "output": "Aunt",
           "caseSensitive": true
         },
@@ -237,38 +207,38 @@
           "caseSensitive": true
         },
         {
-          "input": "boyfriend",
-          "inputType": "wholewords",
+          "input": "\\bboyfriend(?=s\\b)",
+          "inputType": "regexp",
           "output": "girlfriend",
           "caseSensitive": true
         },
         {
-          "input": "Boyfriend",
-          "inputType": "wholewords",
+          "input": "\\bBoyfriend(?=s\\b)",
+          "inputType": "regexp",
           "output": "Girlfriend",
           "caseSensitive": true
         },
         {
-          "input": "father",
-          "inputType": "wholewords",
+          "input": "\\bfather(?=s\\b)",
+          "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
         },
         {
-          "input": "Father",
-          "inputType": "wholewords",
+          "input": "\\bFather(?=s\\b)",
+          "inputType": "regexp",
           "output": "Mother",
           "caseSensitive": true
         },
         {
-          "input": "dad",
-          "inputType": "wholewords",
+          "input": "\\bdad(?=s\\b)",
+          "inputType": "regexp",
           "output": "mom",
           "caseSensitive": true
         },
         {
-          "input": "Dad",
-          "inputType": "wholewords",
+          "input": "\\bDad(?=s\\b)",
+          "inputType": "regexp",
           "output": "Mom",
           "caseSensitive": true
         },
