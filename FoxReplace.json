@@ -132,6 +132,18 @@
           "caseSensitive": true
         },
         {
+          "input": "\\bbro(?=(?:s|)\\b)",
+          "inputType": "regexp",
+          "output": "sis",
+          "caseSensitive": true
+        },
+        {
+          "input": "\\bBro(?=(?:s|)\\b)",
+          "inputType": "regexp",
+          "output": "Sis",
+          "caseSensitive": true
+        },
+        {
           "input": "\\bson(?=s?\\b)",
           "inputType": "regexp",
           "output": "daughter",
