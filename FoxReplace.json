@@ -63,6 +63,12 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\bm)aster\\b",
+          "inputType": "regex",
+          "output": "istress",
+          "caseSensitive": false
+        },
+        {
           "input": "(<=\\bmil)ord\b",
           "inputtype": "regexp",
           "output": "ady",
