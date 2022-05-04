@@ -81,6 +81,12 @@
           "casesensitive": true
         },
         {
+          "input": "(<=\\grand)pa\b",
+          "inputtype": "regexp",
+          "output": "ma",
+          "casesensitive": true
+        },
+        {
           "input": "Male",
           "inputType": "wholewords",
           "output": "Female",
