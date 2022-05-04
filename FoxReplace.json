@@ -78,103 +78,103 @@
           "casesensitive": true
         },
         {
-          "input": "(<=\\bl)ord(?=s\\b)",
+          "input": "(<=\\bl)ord(?=s?\\b)",
           "inputtype": "regexp",
           "output": "ady",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bgrand)father(?=s\\b)",
+          "input": "(<=\\bgrand)father(?=s?\\b)",
           "inputtype": "regexp",
           "output": "mother",
           "casesensitive": true
         },
         {
-          "input": "(<=\\bgrand)pa(?=s\\b)",
+          "input": "(<=\\bgrand)pa(?=s?\\b)",
           "inputtype": "regexp",
           "output": "ma",
           "casesensitive": true
         },
         {
-          "input": "\\bboy(?=s\\b)",
+          "input": "\\bboy(?=s?\\b)",
           "inputType": "regexp",
           "output": "girl",
           "caseSensitive": true
         },
         {
-          "input": "\\bBoy(?=s\\b)",
+          "input": "\\bBoy(?=s?\\b)",
           "inputType": "regexp",
           "output": "Girl",
           "caseSensitive": true
         },
         {
-          "input": "\\bbrother(?=s\\b)",
+          "input": "\\bbrother(?=s?\\b)",
           "inputType": "regexp",
           "output": "sister",
           "caseSensitive": true
         },
         {
-          "input": "\\bBrother(?=s\\b)",
+          "input": "\\bBrother(?=s?\\b)",
           "inputType": "regexp",
           "output": "Sister",
           "caseSensitive": true
         },
         {
-          "input": "\\bson(?=s\\b)",
+          "input": "\\bson(?=s?\\b)",
           "inputType": "regexp",
           "output": "daughter",
           "caseSensitive": true
         },
         {
-          "input": "\\bSon(?=s\\b)",
+          "input": "\\bSon(?=s?\\b)",
           "inputType": "regexp",
           "output": "Daughter",
           "caseSensitive": true
         },
         {
-          "input": "\\buncle(?=s\\b)",
+          "input": "\\buncle(?=s?\\b)",
           "inputType": "regexp",
           "output": "aunt",
           "caseSensitive": true
         },
         {
-          "input": "\\bUncle(?=s\\b)",
+          "input": "\\bUncle(?=s?\\b)",
           "inputType": "regexp",
           "output": "Aunt",
           "caseSensitive": true
         },
         {
-          "input": "\\bboyfriend(?=s\\b)",
+          "input": "\\bboyfriend(?=s?\\b)",
           "inputType": "regexp",
           "output": "girlfriend",
           "caseSensitive": true
         },
         {
-          "input": "\\bBoyfriend(?=s\\b)",
+          "input": "\\bBoyfriend(?=s?\\b)",
           "inputType": "regexp",
           "output": "Girlfriend",
           "caseSensitive": true
         },
         {
-          "input": "\\bfather(?=s\\b)",
+          "input": "\\bfather(?=s?\\b)",
           "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
         },
         {
-          "input": "\\bFather(?=s\\b)",
+          "input": "\\bFather(?=s?\\b)",
           "inputType": "regexp",
           "output": "Mother",
           "caseSensitive": true
         },
         {
-          "input": "\\bdad(?=s\\b)",
+          "input": "\\bdad(?=s?\\b)",
           "inputType": "regexp",
           "output": "mom",
           "caseSensitive": true
         },
         {
-          "input": "\\bDad(?=s\\b)",
+          "input": "\\bDad(?=s?\\b)",
           "inputType": "regexp",
           "output": "Mom",
           "caseSensitive": true
