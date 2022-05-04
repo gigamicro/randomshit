@@ -180,6 +180,18 @@
           "caseSensitive": true
         },
         {
+          "input": "\\bman(?=(?:ly)?\\b)",
+          "inputType": "regexp",
+          "output": "woman",
+          "caseSensitive": true
+        },
+        {
+          "input": "\\bMan(?=(?:ly)?\\b)",
+          "inputType": "regexp",
+          "output": "Woman",
+          "caseSensitive": true
+        },
+        {
           "input": "\\bdad(?=s?\\b)",
           "inputType": "regexp",
           "output": "mom",
