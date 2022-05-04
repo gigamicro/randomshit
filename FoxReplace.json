@@ -414,7 +414,7 @@
           "input":"Bob",
           "inputType":"wholewords",
           "output":"Viv",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Bobby",
