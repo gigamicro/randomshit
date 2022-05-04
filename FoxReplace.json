@@ -288,9 +288,39 @@
           "caseSensitive":false
         },
         {
+          "input":"Adrian",
+          "inputType":"wholewords",
+          "output":"Adriana",
+          "caseSensitive":false
+        },
+        {
+          "input":"Adrien",
+          "inputType":"wholewords",
+          "output":"Adrienne",
+          "caseSensitive":false
+        },
+        {
+          "input":"Alan",
+          "inputType":"wholewords",
+          "output":"Alana",
+          "caseSensitive":false
+        },
+        {
+          "input":"Albert",
+          "inputType":"wholewords",
+          "output":"Alberta",
+          "caseSensitive":false
+        },
+        {
           "input":"Alexander",
           "inputType":"wholewords",
           "output":"Alexandra",
+          "caseSensitive":false
+        },
+        {
+          "input":"Alfred",
+          "inputType":"wholewords",
+          "output":"Alfreda",
           "caseSensitive":false
         },
         {
@@ -300,9 +330,15 @@
           "caseSensitive":false
         },
         {
-          "input":"Alan",
+          "input":"Alvin",
           "inputType":"wholewords",
-          "output":"Alana",
+          "output":"Alvina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Anastasios",
+          "inputType":"wholewords",
+          "output":"Anastasia",
           "caseSensitive":false
         },
         {
@@ -318,9 +354,57 @@
           "caseSensitive":false
         },
         {
+          "input":"Angel",
+          "inputType":"wholewords",
+          "output":"Angelina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Angelus",
+          "inputType":"wholewords",
+          "output":"Angela",
+          "caseSensitive":false
+        },
+        {
           "input":"Anthony",
           "inputType":"wholewords",
           "output":"Antonia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Antoine",
+          "inputType":"wholewords",
+          "output":"Antoinette",
+          "caseSensitive":false
+        },
+        {
+          "input":"Anton",
+          "inputType":"wholewords",
+          "output":"Antonia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Antonio",
+          "inputType":"wholewords",
+          "output":"Antonia",
+          "caseSensitive":false
+        },
+        {
+          "input":"August",
+          "inputType":"wholewords",
+          "output":"Augusta",
+          "caseSensitive":false
+        },
+        {
+          "input":"Augustine",
+          "inputType":"wholewords",
+          "output":"Augustina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Augustus",
+          "inputType":"wholewords",
+          "output":"Augusta",
           "caseSensitive":false
         },
         {
@@ -330,21 +414,105 @@
           "caseSensitive":false
         },
         {
+          "input":"Bernard",
+          "inputType":"wholewords",
+          "output":"Bernadine",
+          "caseSensitive":false
+        },
+        {
+          "input":"Bob",
+          "inputType":"wholewords",
+          "output":"Viv",
+          "caseSensitive":false
+        },
+        {
+          "input":"Bobby",
+          "inputType":"wholewords",
+          "output":"Vivi",
+          "caseSensitive":false
+        },
+        {
+          "input":"Brendan",
+          "inputType":"wholewords",
+          "output":"Brenda",
+          "caseSensitive":false
+        },
+        {
           "input":"Brian",
           "inputType":"wholewords",
-          "output":"Briana",
+          "output":"Brianna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Carl",
+          "inputType":"wholewords",
+          "output":"Carla",
+          "caseSensitive":false
+        },
+        {
+          "input":"Cecil",
+          "inputType":"wholewords",
+          "output":"Cecilia",
           "caseSensitive":false
         },
         {
           "input":"Charles",
           "inputType":"wholewords",
-          "output":"Charlotte",
+          "output":"Charlene",
+          "caseSensitive":false
+        },
+        {
+          "input":"Christian",
+          "inputType":"wholewords",
+          "output":"Christina",
           "caseSensitive":false
         },
         {
           "input":"Christopher",
           "inputType":"wholewords",
           "output":"Christina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Clarence",
+          "inputType":"wholewords",
+          "output":"Clara",
+          "caseSensitive":false
+        },
+        {
+          "input":"Claude",
+          "inputType":"wholewords",
+          "output":"Claudia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Clement",
+          "inputType":"wholewords",
+          "output":"Clementine",
+          "caseSensitive":false
+        },
+        {
+          "input":"Constantine",
+          "inputType":"wholewords",
+          "output":"Constance",
+          "caseSensitive":false
+        },
+        {
+          "input":"Cornelius",
+          "inputType":"wholewords",
+          "output":"Cornelia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Cyril",
+          "inputType":"wholewords",
+          "output":"Cyrilla",
+          "caseSensitive":false
+        },
+        {
+          "input":"Damian",
+          "inputType":"wholewords",
+          "output":"Damiana",
           "caseSensitive":false
         },
         {
@@ -360,9 +528,39 @@
           "caseSensitive":false
         },
         {
+          "input":"Darius",
+          "inputType":"wholewords",
+          "output":"Daria",
+          "caseSensitive":false
+        },
+        {
+          "input":"Dave",
+          "inputType":"wholewords",
+          "output":"Vina",
+          "caseSensitive":false
+        },
+        {
           "input":"David",
           "inputType":"wholewords",
-          "output":"Vida",
+          "output":"Davina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Dean",
+          "inputType":"wholewords",
+          "output":"Deanna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Demetri",
+          "inputType":"wholewords",
+          "output":"Demetria",
+          "caseSensitive":false
+        },
+        {
+          "input":"Demetrius",
+          "inputType":"wholewords",
+          "output":"Demetria",
           "caseSensitive":false
         },
         {
@@ -372,9 +570,27 @@
           "caseSensitive":false
         },
         {
+          "input":"Dominic",
+          "inputType":"wholewords",
+          "output":"Dominica",
+          "caseSensitive":false
+        },
+        {
           "input":"Donald",
           "inputType":"wholewords",
           "output":"Donna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Eduard",
+          "inputType":"wholewords",
+          "output":"Eduarda",
+          "caseSensitive":false
+        },
+        {
+          "input":"Eduardo",
+          "inputType":"wholewords",
+          "output":"Eduarda",
           "caseSensitive":false
         },
         {
@@ -384,21 +600,111 @@
           "caseSensitive":false
         },
         {
+          "input":"Edwin",
+          "inputType":"wholewords",
+          "output":"Edwina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Emil",
+          "inputType":"wholewords",
+          "output":"Emily",
+          "caseSensitive":false
+        },
+        {
           "input":"Eric",
           "inputType":"wholewords",
           "output":"Erica",
           "caseSensitive":false
         },
         {
+          "input":"Erik",
+          "inputType":"wholewords",
+          "output":"Erika",
+          "caseSensitive":false
+        },
+        {
           "input":"Eugene",
           "inputType":"wholewords",
-          "output":"Genia",
+          "output":"Eugenia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Evan",
+          "inputType":"wholewords",
+          "output":"Evanna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Evander",
+          "inputType":"wholewords",
+          "output":"Evandera",
+          "caseSensitive":false
+        },
+        {
+          "input":"Fabian",
+          "inputType":"wholewords",
+          "output":"Fabia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Fabio",
+          "inputType":"wholewords",
+          "output":"Fabia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Fabius",
+          "inputType":"wholewords",
+          "output":"Fabia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Felix",
+          "inputType":"wholewords",
+          "output":"Felicia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Francis",
+          "inputType":"wholewords",
+          "output":"Frances",
           "caseSensitive":false
         },
         {
           "input":"Frank",
           "inputType":"wholewords",
           "output":"Francesca",
+          "caseSensitive":false
+        },
+        {
+          "input":"Fred",
+          "inputType":"wholewords",
+          "output":"Freda",
+          "caseSensitive":false
+        },
+        {
+          "input":"Fred",
+          "inputType":"wholewords",
+          "output":"Rika",
+          "caseSensitive":false
+        },
+        {
+          "input":"Frederick",
+          "inputType":"wholewords",
+          "output":"Frederica",
+          "caseSensitive":false
+        },
+        {
+          "input":"Fredrik",
+          "inputType":"wholewords",
+          "output":"Fredrika",
+          "caseSensitive":false
+        },
+        {
+          "input":"Gabriel",
+          "inputType":"wholewords",
+          "output":"Gabrielle",
           "caseSensitive":false
         },
         {
@@ -411,6 +717,30 @@
           "input":"George",
           "inputType":"wholewords",
           "output":"Georgia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Gerald",
+          "inputType":"wholewords",
+          "output":"Geraldine",
+          "caseSensitive":false
+        },
+        {
+          "input":"Giovanni",
+          "inputType":"wholewords",
+          "output":"Giovanna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Glen",
+          "inputType":"wholewords",
+          "output":"Glenna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Glenn",
+          "inputType":"wholewords",
+          "output":"Glenna",
           "caseSensitive":false
         },
         {
@@ -428,13 +758,43 @@
         {
           "input":"Henry",
           "inputType":"wholewords",
-          "output":"Henrietta",
+          "output":"Henrika",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ian",
+          "inputType":"wholewords",
+          "output":"Iana",
+          "caseSensitive":false
+        },
+        {
+          "input":"Isidore",
+          "inputType":"wholewords",
+          "output":"Isidora",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ivan",
+          "inputType":"wholewords",
+          "output":"Yvonne",
           "caseSensitive":false
         },
         {
           "input":"Jack",
           "inputType":"wholewords",
           "output":"Jackie",
+          "caseSensitive":false
+        },
+        {
+          "input":"Jacob",
+          "inputType":"wholewords",
+          "output":"Jacoba",
+          "caseSensitive":false
+        },
+        {
+          "input":"Jacoby",
+          "inputType":"wholewords",
+          "output":"Jacoba",
           "caseSensitive":false
         },
         {
@@ -468,9 +828,21 @@
           "caseSensitive":false
         },
         {
+          "input":"Joel",
+          "inputType":"wholewords",
+          "output":"Joelle",
+          "caseSensitive":false
+        },
+        {
           "input":"John",
           "inputType":"wholewords",
-          "output":"Jane",
+          "output":"Jean",
+          "caseSensitive":false
+        },
+        {
+          "input":"Jon",
+          "inputType":"wholewords",
+          "output":"Joan",
           "caseSensitive":false
         },
         {
@@ -480,21 +852,33 @@
           "caseSensitive":false
         },
         {
-          "input":"Joshua",
-          "inputType":"wholewords",
-          "output":"Josie",
-          "caseSensitive":false
-        },
-        {
           "input":"Josh",
           "inputType":"wholewords",
           "output":"Jo",
           "caseSensitive":false
         },
         {
+          "input":"Joshua",
+          "inputType":"wholewords",
+          "output":"Josie",
+          "caseSensitive":false
+        },
+        {
+          "input":"Julian",
+          "inputType":"wholewords",
+          "output":"Julianne",
+          "caseSensitive":false
+        },
+        {
           "input":"Justin",
           "inputType":"wholewords",
           "output":"Justine",
+          "caseSensitive":false
+        },
+        {
+          "input":"Kendrick",
+          "inputType":"wholewords",
+          "output":"Kendra",
           "caseSensitive":false
         },
         {
@@ -510,15 +894,39 @@
           "caseSensitive":false
         },
         {
+          "input":"Kieran",
+          "inputType":"wholewords",
+          "output":"Kiera",
+          "caseSensitive":false
+        },
+        {
+          "input":"Kyle",
+          "inputType":"wholewords",
+          "output":"Kyla",
+          "caseSensitive":false
+        },
+        {
           "input":"Larry",
           "inputType":"wholewords",
           "output":"Laurie",
           "caseSensitive":false
         },
         {
+          "input":"Laurence",
+          "inputType":"wholewords",
+          "output":"Lauren",
+          "caseSensitive":false
+        },
+        {
           "input":"Lawrence",
           "inputType":"wholewords",
           "output":"Laura",
+          "caseSensitive":false
+        },
+        {
+          "input":"Leon",
+          "inputType":"wholewords",
+          "output":"Leona",
           "caseSensitive":false
         },
         {
@@ -546,10 +954,22 @@
           "caseSensitive":false
         },
         {
+          "input":"Lucius",
+          "inputType":"wholewords",
+          "output":"Lucia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Marcus",
+          "inputType":"wholewords",
+          "output":"Marcia",
+          "caseSensitive":false
+        },
+        {
           "input":"Mark",
           "inputType":"wholewords",
           "output":"Martha",
-          "caseSensitive":true
+          "caseSensitive":false
         },
         {
           "input":"Martin",
@@ -564,21 +984,45 @@
           "caseSensitive":false
         },
         {
+          "input":"Max",
+          "inputType":"wholewords",
+          "output":"Maxine",
+          "caseSensitive":false
+        },
+        {
           "input":"Michael",
           "inputType":"wholewords",
           "output":"Michelle",
           "caseSensitive":false
         },
         {
-          "input":"Neil",
+          "input":"Mitchell",
           "inputType":"wholewords",
-          "output":"Nell",
+          "output":"Michelle",
+          "caseSensitive":false
+        },
+        {
+          "input":"Morgan",
+          "inputType":"wholewords",
+          "output":"Morgana",
+          "caseSensitive":false
+        },
+        {
+          "input":"Nasir",
+          "inputType":"wholewords",
+          "output":"Nasira",
           "caseSensitive":false
         },
         {
           "input":"Neal",
           "inputType":"wholewords",
           "output":"Neila",
+          "caseSensitive":false
+        },
+        {
+          "input":"Neil",
+          "inputType":"wholewords",
+          "output":"Nell",
           "caseSensitive":false
         },
         {
@@ -591,6 +1035,42 @@
           "input":"Nick",
           "inputType":"wholewords",
           "output":"Nicki",
+          "caseSensitive":false
+        },
+        {
+          "input":"Nigel",
+          "inputType":"wholewords",
+          "output":"Nigella",
+          "caseSensitive":false
+        },
+        {
+          "input":"Noel",
+          "inputType":"wholewords",
+          "output":"Noelle",
+          "caseSensitive":false
+        },
+        {
+          "input":"Norbert",
+          "inputType":"wholewords",
+          "output":"Norberta",
+          "caseSensitive":false
+        },
+        {
+          "input":"Norman",
+          "inputType":"wholewords",
+          "output":"Norma",
+          "caseSensitive":false
+        },
+        {
+          "input":"Octavius",
+          "inputType":"wholewords",
+          "output":"Octavia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Oliver",
+          "inputType":"wholewords",
+          "output":"Olivia",
           "caseSensitive":false
         },
         {
@@ -614,13 +1094,49 @@
         {
           "input":"Philip",
           "inputType":"wholewords",
+          "output":"Philippa",
+          "caseSensitive":false
+        },
+        {
+          "input":"Phillip",
+          "inputType":"wholewords",
           "output":"Phillipa",
+          "caseSensitive":false
+        },
+        {
+          "input":"Rafael",
+          "inputType":"wholewords",
+          "output":"Rafaela",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ramon",
+          "inputType":"wholewords",
+          "output":"Ramona",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ramone",
+          "inputType":"wholewords",
+          "output":"Ramona",
           "caseSensitive":false
         },
         {
           "input":"Randy",
           "inputType":"wholewords",
           "output":"Randi",
+          "caseSensitive":false
+        },
+        {
+          "input":"Raphael",
+          "inputType":"wholewords",
+          "output":"Raphaela",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ray",
+          "inputType":"wholewords",
+          "output":"Rae",
           "caseSensitive":false
         },
         {
@@ -642,27 +1158,21 @@
           "caseSensitive":false
         },
         {
+          "input":"Rob",
+          "inputType":"wholewords",
+          "output":"Robyn",
+          "caseSensitive":false
+        },
+        {
           "input":"Robert",
           "inputType":"wholewords",
           "output":"Roberta",
           "caseSensitive":false
         },
         {
-          "input":"Bob",
+          "input":"Robin",
           "inputType":"wholewords",
-          "output":"Viv",
-          "caseSensitive":false
-        },
-        {
-          "input":"Bobby",
-          "inputType":"wholewords",
-          "output":"Vivi",
-          "caseSensitive":false
-        },
-        {
-          "input":"Rob",
-          "inputType":"wholewords",
-          "output":"Robyn",
+          "output":"Robina",
           "caseSensitive":false
         },
         {
@@ -672,21 +1182,33 @@
           "caseSensitive":false
         },
         {
-          "input":"Ronald",
-          "inputType":"wholewords",
-          "output":"Ronni",
-          "caseSensitive":false
-        },
-        {
           "input":"Ron",
           "inputType":"wholewords",
           "output":"Ronni",
           "caseSensitive":false
         },
         {
+          "input":"Ronald",
+          "inputType":"wholewords",
+          "output":"Ronni",
+          "caseSensitive":false
+        },
+        {
+          "input":"Rowan",
+          "inputType":"wholewords",
+          "output":"Rowanne",
+          "caseSensitive":false
+        },
+        {
           "input":"Ryan",
           "inputType":"wholewords",
           "output":"Rianna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Samuel",
+          "inputType":"wholewords",
+          "output":"Samantha",
           "caseSensitive":false
         },
         {
@@ -702,6 +1224,24 @@
           "caseSensitive":false
         },
         {
+          "input":"Shaun",
+          "inputType":"wholewords",
+          "output":"Shauna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Simon",
+          "inputType":"wholewords",
+          "output":"Simone",
+          "caseSensitive":false
+        },
+        {
+          "input":"Stefan",
+          "inputType":"wholewords",
+          "output":"Stefanie",
+          "caseSensitive":false
+        },
+        {
           "input":"Stephen",
           "inputType":"wholewords",
           "output":"Stephanie",
@@ -710,7 +1250,13 @@
         {
           "input":"Steven",
           "inputType":"wholewords",
-          "output":"Stephanie",
+          "output":"Stefania",
+          "caseSensitive":false
+        },
+        {
+          "input":"Theodore",
+          "inputType":"wholewords",
+          "output":"Theodora",
           "caseSensitive":false
         },
         {
@@ -720,9 +1266,39 @@
           "caseSensitive":false
         },
         {
+          "input":"Timothy",
+          "inputType":"wholewords",
+          "output":"Timothea",
+          "caseSensitive":false
+        },
+        {
           "input":"Tommy",
           "inputType":"wholewords",
           "output":"Tessie",
+          "caseSensitive":false
+        },
+        {
+          "input":"Tristan",
+          "inputType":"wholewords",
+          "output":"Trista",
+          "caseSensitive":false
+        },
+        {
+          "input":"Valentine",
+          "inputType":"wholewords",
+          "output":"Valentina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Vernon",
+          "inputType":"wholewords",
+          "output":"Verna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Victor",
+          "inputType":"wholewords",
+          "output":"Victoria",
           "caseSensitive":false
         },
         {
@@ -732,9 +1308,33 @@
           "caseSensitive":false
         },
         {
+          "input":"Wilfred",
+          "inputType":"wholewords",
+          "output":"Wilfreda",
+          "caseSensitive":false
+        },
+        {
+          "input":"Wilhelm",
+          "inputType":"wholewords",
+          "output":"Wilhelmina",
+          "caseSensitive":false
+        },
+        {
           "input":"William",
           "inputType":"wholewords",
           "output":"Willow",
+          "caseSensitive":false
+        },
+        {
+          "input":"Yves",
+          "inputType":"wholewords",
+          "output":"Yvette",
+          "caseSensitive":false
+        },
+        {
+          "input":"Yvon",
+          "inputType":"wholewords",
+          "output":"Yvonne",
           "caseSensitive":false
         },
         {
