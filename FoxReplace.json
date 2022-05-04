@@ -75,19 +75,19 @@
           "casesensitive": true
         },
         {
-          "input": "(<=\\bl)ord\b",
+          "input": "(<=\\bl)ord(?=s\b)",
           "inputtype": "regexp",
           "output": "ady",
           "casesensitive": true
         },
         {
-          "input": "(<=\\grand)father\b",
+          "input": "(<=\\bgrand)father(?=s\b)",
           "inputtype": "regexp",
           "output": "mother",
           "casesensitive": true
         },
         {
-          "input": "(<=\\grand)pa\b",
+          "input": "(<=\\bgrand)pa(?=s\b)",
           "inputtype": "regexp",
           "output": "ma",
           "casesensitive": true
