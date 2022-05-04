@@ -270,6 +270,18 @@
           "casesensitive": true
         },
         {
+          "input": "lad",
+          "inputtype": "wholewords",
+          "output": "girl",
+          "casesensitive": true
+        },
+        {
+          "input": "Lad",
+          "inputtype": "wholewords",
+          "output": "Girl",
+          "casesensitive": true
+        },
+        {
           "input": "daddy",
           "inputType": "wholewords",
           "output": "mommy",
