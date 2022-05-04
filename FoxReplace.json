@@ -90,7 +90,7 @@
           "casesensitive": true
         },
         {
-          "input": "(?<=\\bl)ord(?=s?\\b)",
+          "input": "(?<=\\bl)ord(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "ady",
           "casesensitive": true
@@ -108,25 +108,25 @@
           "casesensitive": true
         },
         {
-          "input": "\\bboy(?=s?\\b)",
+          "input": "\\bboy(?=(?:s|ish|)\\b)",
           "inputType": "regexp",
           "output": "girl",
           "caseSensitive": true
         },
         {
-          "input": "\\bBoy(?=s?\\b)",
+          "input": "\\bBoy(?=(?:s|ish|)\\b)",
           "inputType": "regexp",
           "output": "Girl",
           "caseSensitive": true
         },
         {
-          "input": "\\bbrother(?=s?\\b)",
+          "input": "\\bbrother(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "sister",
           "caseSensitive": true
         },
         {
-          "input": "\\bBrother(?=s?\\b)",
+          "input": "\\bBrother(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "Sister",
           "caseSensitive": true
@@ -156,25 +156,25 @@
           "caseSensitive": true
         },
         {
-          "input": "\\bboyfriend(?=s?\\b)",
+          "input": "\\bboyfriend(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "girlfriend",
           "caseSensitive": true
         },
         {
-          "input": "\\bBoyfriend(?=s?\\b)",
+          "input": "\\bBoyfriend(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "Girlfriend",
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\b(?:grand-?)*)father(?=(?:s|ly|)\\b)",
+          "input": "(?<=\\b(?:[gG]rand-?)*)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
         },
         {
-          "input": "\\bFather(?=s?\\b)",
+          "input": "\\bFather(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "Mother",
           "caseSensitive": true
