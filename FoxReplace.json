@@ -651,9 +651,21 @@
           "caseSensitive":false
         },
         {
+          "input":"The Dean",
+          "inputType":"wholewords",
+          "output":"thedean",
+          "caseSensitive":false
+        },
+        {
           "input":"Dean",
           "inputType":"wholewords",
           "output":"Deanna",
+          "caseSensitive":false
+        },
+        {
+          "input":"thedean",
+          "inputType":"wholewords",
+          "output":"The Dean",
           "caseSensitive":false
         },
         {
