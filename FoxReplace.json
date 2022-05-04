@@ -357,12 +357,6 @@
           "caseSensitive":false
         },
         {
-          "input":"Angel",
-          "inputType":"wholewords",
-          "output":"Angelina",
-          "caseSensitive":false
-        },
-        {
           "input":"Angelus",
           "inputType":"wholewords",
           "output":"Angela",
