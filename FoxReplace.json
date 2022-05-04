@@ -969,7 +969,7 @@
           "input":"Mark",
           "inputType":"wholewords",
           "output":"Martha",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Martin",
@@ -987,7 +987,7 @@
           "input":"Max",
           "inputType":"wholewords",
           "output":"Maxine",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Michael",
@@ -1035,7 +1035,7 @@
           "input":"Nick",
           "inputType":"wholewords",
           "output":"Nicki",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Nigel",
@@ -1137,7 +1137,7 @@
           "input":"Ray",
           "inputType":"wholewords",
           "output":"Rae",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Raymond",
