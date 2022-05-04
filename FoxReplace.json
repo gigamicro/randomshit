@@ -96,13 +96,13 @@
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\bgrand)pa(?=s?\\b)",
+          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)pa(?=s?\\b)",
           "inputType": "regexp",
           "output": "ma",
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\bgrand)papa(?=s?\\b)",
+          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)papa(?=s?\\b)",
           "inputType": "regexp",
           "output": "ma",
           "caseSensitive": true
@@ -168,7 +168,7 @@
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\b(?:[gG]rand-?)*)father(?=(?:s|ly|)\\b)",
+          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
