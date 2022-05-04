@@ -87,25 +87,25 @@
           "input": "(?<=\\bmil)ord\\b",
           "inputType": "regexp",
           "output": "ady",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "(?<=\\bl)ord(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "ady",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "(?<=\\bgrand)pa(?=s?\\b)",
           "inputType": "regexp",
           "output": "ma",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "(?<=\\bgrand)papa(?=s?\\b)",
           "inputType": "regexp",
           "output": "ma",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "\\bboy(?=(?:s|ish|)\\b)",
@@ -273,25 +273,25 @@
           "input": "sir",
           "inputType": "wholewords",
           "output": "maam",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "Sir",
           "inputType": "wholewords",
           "output": "Maam",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "lad",
           "inputType": "wholewords",
           "output": "girl",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "Lad",
           "inputType": "wholewords",
           "output": "Girl",
-          "casesensitive": true
+          "caseSensitive": true
         },
         {
           "input": "daddy",
