@@ -104,7 +104,7 @@
         {
           "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)papa(?=s?\\b)",
           "inputType": "regexp",
-          "output": "ma",
+          "output": "mama",
           "caseSensitive": true
         },
         {
