@@ -1119,8 +1119,8 @@
           "caseSensitive":false
         },
         {
-          "input":"Mark(?! my)",
-          "inputType":"wholewords",
+          "input":"\\bMark\\b(?!\\smy|\\sthis|\\sof|\\sit|\\syour|\\son)",
+          "inputType":"regexp",
           "output":"Martha",
           "caseSensitive":true
         },
