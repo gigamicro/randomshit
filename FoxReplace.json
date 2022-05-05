@@ -15,16 +15,16 @@
           "caseSensitive": false
         },
         {
-          "input": "He",
-          "inputType": "wholewords",
-          "output": "She",
-          "caseSensitive": true
-        },
-        {
           "input": "he",
           "inputType": "wholewords",
           "output": "she",
           "caseSensitive": true
+        },
+        {
+          "input": "He",
+          "inputType": "wholewords",
+          "output": "She",
+          "caseSensitive": false
         }
       ],
       "html": "none",
