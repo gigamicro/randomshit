@@ -258,25 +258,13 @@
           "caseSensitive": false
         },
         {
-          "input": "man",
-          "inputType": "wholewords",
-          "output": "woman",
-          "caseSensitive": true
-        },
-        {
-          "input": "Man",
-          "inputType": "wholewords",
-          "output": "Woman",
-          "caseSensitive": false
-        },
-        {
-          "input": "\\bman(?=(?:ly)?\\b)",
+          "input": "\\bman(?=ly\\b|\\b)",
           "inputType": "regexp",
           "output": "woman",
           "caseSensitive": true
         },
         {
-          "input": "\\bMan(?=(?:ly)?\\b)",
+          "input": "\\bMan(?=ly\\b|\\b)",
           "inputType": "regexp",
           "output": "Woman",
           "caseSensitive": false
