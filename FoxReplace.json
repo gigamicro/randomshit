@@ -1119,7 +1119,7 @@
           "caseSensitive":false
         },
         {
-          "input":"Mark(?!\\s(?:my|this|of|it|your|on)\\b)",
+          "input":"Mark(?!\\s(?:my|this|of|it|your|on))",
           "inputType":"wholewords",
           "output":"Martha",
           "caseSensitive":true
