@@ -1323,7 +1323,7 @@
           "caseSensitive":false
         },
         {
-          "input":"Roger",
+          "input":"Roger(?! \\w)",
           "inputType":"wholewords",
           "output":"Geri",
           "caseSensitive":false
