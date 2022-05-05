@@ -192,6 +192,12 @@
           "caseSensitive": true
         },
         {
+          "input": "(?<=\\baw|\\boh) (?=man\\b)",
+          "inputType": "regexp",
+          "output": "",
+          "caseSensitive": false
+        },
+        {
           "input": "\\bman(?=(?:ly)?\\b)",
           "inputType": "regexp",
           "output": "woman",
@@ -202,6 +208,12 @@
           "inputType": "regexp",
           "output": "Woman",
           "caseSensitive": true
+        },
+        {
+          "input": "(?<=\\baw|\\boh)(?=\\bman)",
+          "inputType": "regexp",
+          "output": " ",
+          "caseSensitive": false
         },
         {
           "input": "\\bdad(?=s?\\b)",
