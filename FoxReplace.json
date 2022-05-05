@@ -1119,7 +1119,7 @@
           "caseSensitive":false
         },
         {
-          "input":"Mark",
+          "input":"Mark(?!\\smy|\\sthis|\\sof|\\sit|\\syour|\\son)",
           "inputType":"wholewords",
           "output":"Martha",
           "caseSensitive":true
