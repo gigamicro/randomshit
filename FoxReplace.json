@@ -1119,8 +1119,8 @@
           "caseSensitive":false
         },
         {
-          "input":"\\bMark\\b",
-          "inputType":"regexp",
+          "input":"Mark",
+          "inputType":"wholewords",
           "output":"Martha",
           "caseSensitive":true
         },
