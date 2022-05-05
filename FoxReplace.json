@@ -1119,7 +1119,7 @@
           "caseSensitive":false
         },
         {
-          "input":"\\bMark\\b(?!\\s(?:my|this|of|it|your|on))",
+          "input":"\\bMark\\b",
           "inputType":"regexp",
           "output":"Martha",
           "caseSensitive":true
