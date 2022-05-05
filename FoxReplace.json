@@ -72,13 +72,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bmil)ord\\b",
-          "inputType": "regexp",
-          "output": "ady",
-          "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\bl)ord\\b",
+          "input": "(?<=\\bl|\\bmil)ord\\b",
           "inputType": "regexp",
           "output": "ady",
           "caseSensitive": false
