@@ -222,7 +222,7 @@
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\baw|\\boh)(?=\\bman)",
+          "input": "(?<=\\baw|\\boh)(?=man\\b)",
           "inputType": "regexp",
           "output": " ",
           "caseSensitive": false
