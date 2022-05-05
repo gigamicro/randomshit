@@ -204,30 +204,6 @@
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\baw|\\boh) (?=man\\b)",
-          "inputType": "regexp",
-          "output": "",
-          "caseSensitive": false
-        },
-        {
-          "input": "\\bman(?=(?:ly)?\\b)",
-          "inputType": "regexp",
-          "output": "woman",
-          "caseSensitive": true
-        },
-        {
-          "input": "\\bMan(?=(?:ly)?\\b)",
-          "inputType": "regexp",
-          "output": "Woman",
-          "caseSensitive": true
-        },
-        {
-          "input": "(?<=\\baw|\\boh)(?=man\\b)",
-          "inputType": "regexp",
-          "output": " ",
-          "caseSensitive": false
-        },
-        {
           "input": "\\bdad(?=s?\\b)",
           "inputType": "regexp",
           "output": "mom",
@@ -282,6 +258,12 @@
           "caseSensitive": true
         },
         {
+          "input": "(?<=\\baw|\\boh) (?=man\\b)",
+          "inputType": "regexp",
+          "output": "",
+          "caseSensitive": false
+        },
+        {
           "input": "Man",
           "inputType": "wholewords",
           "output": "Woman",
@@ -292,6 +274,24 @@
           "inputType": "wholewords",
           "output": "woman",
           "caseSensitive": true
+        },
+        {
+          "input": "\\bman(?=(?:ly)?\\b)",
+          "inputType": "regexp",
+          "output": "woman",
+          "caseSensitive": true
+        },
+        {
+          "input": "\\bMan(?=(?:ly)?\\b)",
+          "inputType": "regexp",
+          "output": "Woman",
+          "caseSensitive": true
+        },
+        {
+          "input": "(?<=\\baw|\\boh)(?=man\\b)",
+          "inputType": "regexp",
+          "output": " ",
+          "caseSensitive": false
         },
         {
           "input": "Men",
