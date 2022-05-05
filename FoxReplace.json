@@ -300,16 +300,10 @@
           "caseSensitive": true
         },
         {
-          "input": "guy",
-          "inputType": "wholewords",
-          "output": "girl",
-          "caseSensitive": true
-        },
-        {
-          "input": "Guy",
-          "inputType": "wholewords",
-          "output": "Girl",
-          "caseSensitive": true
+          "input": "(?<=\\bg)uy\\b",
+          "inputType": "regexp",
+          "output": "irl",
+          "caseSensitive": false
         },
         {
           "input": "Mr",
