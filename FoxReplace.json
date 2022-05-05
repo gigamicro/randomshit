@@ -90,18 +90,6 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)pa(?=s?\\b)",
-          "inputType": "regexp",
-          "output": "ma",
-          "caseSensitive": true
-        },
-        {
-          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)papa(?=s?\\b)",
-          "inputType": "regexp",
-          "output": "mama",
-          "caseSensitive": true
-        },
-        {
           "input": "\\bboy(?=(?:s|ish|)\\b)",
           "inputType": "regexp",
           "output": "girl",
@@ -111,7 +99,7 @@
           "input": "\\bBoy(?=(?:s|ish|)\\b)",
           "inputType": "regexp",
           "output": "Girl",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "\\bbrother(?=(?:s|ly|li\\w+|)\\b)",
@@ -123,7 +111,7 @@
           "input": "\\bBrother(?=(?:s|ly|li\\w+|)\\b)",
           "inputType": "regexp",
           "output": "Sister",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "\\bbro(?=(?:s|)\\b)",
@@ -135,7 +123,7 @@
           "input": "\\bBro(?=(?:s|)\\b)",
           "inputType": "regexp",
           "output": "Sis",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "\\bson(?=s?\\b)",
@@ -147,7 +135,7 @@
           "input": "\\bSon(?=s?\\b)",
           "inputType": "regexp",
           "output": "Daughter",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "\\buncle(?=s?\\b)",
@@ -159,7 +147,7 @@
           "input": "\\bUncle(?=s?\\b)",
           "inputType": "regexp",
           "output": "Aunt",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "(?<=\\bn)ephew(?=s?\\b)",
@@ -177,6 +165,18 @@
           "input": "\\bBoyfriend(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "Girlfriend",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)pa(?=s?\\b)",
+          "inputType": "regexp",
+          "output": "ma",
+          "caseSensitive": true
+        },
+        {
+          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)papa(?=s?\\b)",
+          "inputType": "regexp",
+          "output": "mama",
           "caseSensitive": true
         },
         {
@@ -189,7 +189,7 @@
           "input": "\\bFather(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "Mother",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "\\bdad(?=s?\\b)",
@@ -201,7 +201,7 @@
           "input": "\\bDad(?=s?\\b)",
           "inputType": "regexp",
           "output": "Mom",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "Daad",
@@ -231,13 +231,7 @@
           "input": "Husband",
           "inputType": "wholewords",
           "output": "Wife",
-          "caseSensitive": true
-        },
-        {
-          "input": "Male",
-          "inputType": "wholewords",
-          "output": "Female",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "male",
@@ -246,22 +240,28 @@
           "caseSensitive": true
         },
         {
+          "input": "Male",
+          "inputType": "wholewords",
+          "output": "Female",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\baw|\\boh) (?=man\\b)",
           "inputType": "regexp",
           "output": "",
           "caseSensitive": false
         },
         {
-          "input": "Man",
-          "inputType": "wholewords",
-          "output": "Woman",
-          "caseSensitive": true
-        },
-        {
           "input": "man",
           "inputType": "wholewords",
           "output": "woman",
           "caseSensitive": true
+        },
+        {
+          "input": "Man",
+          "inputType": "wholewords",
+          "output": "Woman",
+          "caseSensitive": false
         },
         {
           "input": "\\bman(?=(?:ly)?\\b)",
@@ -273,7 +273,7 @@
           "input": "\\bMan(?=(?:ly)?\\b)",
           "inputType": "regexp",
           "output": "Woman",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "(?<=\\baw|\\boh)(?=man\\b)",
@@ -294,16 +294,16 @@
           "caseSensitive": false
         },
         {
-          "input": "Men",
-          "inputType": "wholewords",
-          "output": "Women",
-          "caseSensitive": true
-        },
-        {
           "input": "men",
           "inputType": "wholewords",
           "output": "women",
           "caseSensitive": true
+        },
+        {
+          "input": "Men",
+          "inputType": "wholewords",
+          "output": "Women",
+          "caseSensitive": false
         },
         {
           "input": "brotherhood",
@@ -315,7 +315,7 @@
           "input": "Brotherhood",
           "inputType": "wholewords",
           "output": "Sisterhood",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "Mr",
@@ -333,7 +333,7 @@
           "input": "Sir",
           "inputType": "wholewords",
           "output": "Maam",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "lad",
@@ -345,7 +345,7 @@
           "input": "Lad",
           "inputType": "wholewords",
           "output": "Girl",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "daddy",
@@ -357,7 +357,7 @@
           "input": "Daddy",
           "inputType": "wholewords",
           "output": "Mommy",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "poppa",
@@ -369,7 +369,7 @@
           "input": "Poppa",
           "inputType": "wholewords",
           "output": "Momma",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "papa",
@@ -381,7 +381,7 @@
           "input": "Papa",
           "inputType": "wholewords",
           "output": "Mama",
-          "caseSensitive": true
+          "caseSensitive": false
         }
       ],
       "html": "none",
