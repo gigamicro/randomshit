@@ -282,6 +282,18 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\bg)uy\\b",
+          "inputType": "regexp",
+          "output": "irl",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\bg)uys\\b",
+          "inputType": "regexp",
+          "output": "als",
+          "caseSensitive": false
+        },
+        {
           "input": "Men",
           "inputType": "wholewords",
           "output": "Women",
@@ -304,18 +316,6 @@
           "inputType": "wholewords",
           "output": "Sisterhood",
           "caseSensitive": true
-        },
-        {
-          "input": "(?<=\\bg)uy\\b",
-          "inputType": "regexp",
-          "output": "irl",
-          "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\bg)uys\\b",
-          "inputType": "regexp",
-          "output": "als",
-          "caseSensitive": false
         },
         {
           "input": "Mr",
