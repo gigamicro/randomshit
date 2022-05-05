@@ -306,6 +306,12 @@
           "caseSensitive": false
         },
         {
+          " input": "(?<=\\bg)uys\\b",
+          " inputType": "regexp",
+          " output": "als",
+          " caseSensitive": false
+        },
+        {
           "input": "Mr",
           "inputType": "wholewords",
           "output": "Ms",
