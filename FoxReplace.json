@@ -162,6 +162,12 @@
           "caseSensitive": true
         },
         {
+          "input": "(?<=\\bn)ephew(?=s?\\b)",
+          "inputType": "regexp",
+          "output": "iece",
+          "caseSensitive": false
+        },
+        {
           "input": "\\bboyfriend(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "girlfriend",
@@ -306,7 +312,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bg)uysx\\b",
+          "input": "(?<=\\bg)uys\\b",
           "inputType": "regexp",
           "output": "als",
           "caseSensitive": false
