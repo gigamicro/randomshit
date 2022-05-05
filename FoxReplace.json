@@ -306,10 +306,10 @@
           "caseSensitive": false
         },
         {
-          " input": "(?<=\\bg)uys\\b",
-          " inputType": "regexp",
-          " output": "als",
-          " caseSensitive": false
+          "input": "(?<=\\bg)uysx\\b",
+          "inputType": "regexp",
+          "output": "als",
+          "caseSensitive": false
         },
         {
           "input": "Mr",
