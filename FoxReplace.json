@@ -54,9 +54,9 @@
           "caseSensitive": false
         },
         {
-          "input": "to master",
-          "inputType": "wholewords",
-          "output": "tomaster",
+          "input": "(?<=\\bto) (?=master\\b)",
+          "inputType": "regexp",
+          "output": "",
           "caseSensitive": false
         },
         {
@@ -66,9 +66,9 @@
           "caseSensitive": false
         },
         {
-          "input": "tomaster",
-          "inputType": "wholewords",
-          "output": "to master",
+          "input": "(?<=\\bto)(?=master\\b)",
+          "inputType": "regexp",
+          "output": " ",
           "caseSensitive": false
         },
         {
