@@ -132,13 +132,13 @@
           "caseSensitive": true
         },
         {
-          "input": "\\bbrother(?=(?:s|ly|li\\a+|)\\b)",
+          "input": "\\bbrother(?=(?:s|ly|li\\w+|)\\b)",
           "inputType": "regexp",
           "output": "sister",
           "caseSensitive": true
         },
         {
-          "input": "\\bBrother(?=(?:s|ly|li\\a+|)\\b)",
+          "input": "\\bBrother(?=(?:s|ly|li\\w+|)\\b)",
           "inputType": "regexp",
           "output": "Sister",
           "caseSensitive": true
