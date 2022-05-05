@@ -9,15 +9,9 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bh)im\\b",
+          "input": "(?<=\\bh)im(?=self|)\\b",
           "inputType": "regexp",
           "output": "er",
-          "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\bh)imself\\b",
-          "inputType": "regexp",
-          "output": "erself",
           "caseSensitive": false
         },
         {
