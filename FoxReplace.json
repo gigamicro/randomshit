@@ -501,6 +501,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Arnold",
+          "inputType":"wholewords",
+          "output":"Arnell",
+          "caseSensitive":false
+        },
+        {
           "input":"August",
           "inputType":"wholewords",
           "output":"Augusta",
