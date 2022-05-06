@@ -867,6 +867,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Gilbert",
+          "inputType":"wholewords",
+          "output":"Gilberta",
+          "caseSensitive":false
+        },
+        {
+          "input":"Gil",
+          "inputType":"wholewords",
+          "output":"Gilly",
+          "caseSensitive":false
+        },
+        {
           "input":"Glen",
           "inputType":"wholewords",
           "output":"Glenna",
