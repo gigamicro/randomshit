@@ -168,6 +168,12 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\bfianc)(?:e|é)\\b",
+          "inputType": "regexp",
+          "output": "ée",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\bgram)p(?=s\\b)",
           "inputType": "regexp",
           "output": "",
