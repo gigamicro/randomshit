@@ -54,21 +54,9 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bto|\\ba) (?=master\\b)",
-          "inputType": "regexp",
-          "output": "",
-          "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\bm)aster\\b",
+          "input": "(?<=(?<!\\bto |\\ba )\\bm)aster\\b(?! plan\\b)",
           "inputType": "regexp",
           "output": "istress",
-          "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\bto|\\ba)(?=master\\b)",
-          "inputType": "regexp",
-          "output": " ",
           "caseSensitive": false
         },
         {
