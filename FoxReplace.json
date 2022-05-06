@@ -1155,9 +1155,21 @@
           "caseSensitive":false
         },
         {
-          "input":"Morgan",
+          "input":"Mortimer",
           "inputType":"wholewords",
-          "output":"Morgana",
+          "output":"Morticia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Morty",
+          "inputType":"wholewords",
+          "output":"Tish",
+          "caseSensitive":false
+        },
+        {
+          "input":"Marty",
+          "inputType":"wholewords",
+          "output":"Ticia",
           "caseSensitive":false
         },
         {
