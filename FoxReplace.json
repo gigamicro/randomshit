@@ -1035,6 +1035,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Klaus",
+          "inputType":"wholewords",
+          "output":"Klaudia",
+          "caseSensitive":false
+        },
+        {
           "input":"Kyle",
           "inputType":"wholewords",
           "output":"Kyla",
