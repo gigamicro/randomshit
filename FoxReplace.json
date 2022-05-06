@@ -1107,6 +1107,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Lucas",
+          "inputType":"wholewords",
+          "output":"Lucia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Luke",
+          "inputType":"wholewords",
+          "output":"Lucia",
+          "caseSensitive":false
+        },
+        {
           "input":"Marcus",
           "inputType":"wholewords",
           "output":"Marcia",
