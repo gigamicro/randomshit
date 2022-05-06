@@ -441,6 +441,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Alphonse",
+          "inputType":"wholewords",
+          "output":"Alphonsine",
+          "caseSensitive":false
+        },
+        {
           "input":"Alvin",
           "inputType":"wholewords",
           "output":"Alvina",
