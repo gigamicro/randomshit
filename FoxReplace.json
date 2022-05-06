@@ -1624,6 +1624,12 @@
           "inputType": "wholewords",
           "output": "women",
           "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\bDemon L)addy\\b",
+          "inputType": "regexp",
+          "output": "ord",
+          "caseSensitive": false
         }
       ],
       "html": "none",
