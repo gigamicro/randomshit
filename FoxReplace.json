@@ -1341,6 +1341,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Rob",
+          "inputType":"wholewords",
+          "output":"Robyn",
+          "caseSensitive":false
+        },
+        {
+          "input":"Rocky",
+          "inputType":"wholewords",
+          "output":"Rachel",
+          "caseSensitive":false
+        },
+        {
           "input":"Roger(?! \\w)",
           "inputType":"wholewords",
           "output":"Geri",
