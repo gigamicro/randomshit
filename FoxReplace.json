@@ -1455,6 +1455,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Tyler",
+          "inputType":"wholewords",
+          "output":"Tyla",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ty",
+          "inputType":"wholewords",
+          "output":"Tyla",
+          "caseSensitive":false
+        },
+        {
           "input":"Valentine",
           "inputType":"wholewords",
           "output":"Valentina",
