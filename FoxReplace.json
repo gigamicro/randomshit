@@ -36,12 +36,6 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bg)uy\\b",
-          "inputType": "regexp",
-          "output": "irl",
-          "caseSensitive": false
-        },
-        {
           "input": "(?<=\\bgentle)man\\b",
           "inputType": "regexp",
           "output": "woman",
@@ -240,27 +234,15 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\baw|\\boh) (?=man\\b)",
-          "inputType": "regexp",
-          "output": "",
-          "caseSensitive": false
-        },
-        {
-          "input": "\\bman(?=ly\\b|\\b)",
+          "input": "(?<!\\baw |\\boh )\\bman(?=ly\\b|\\b)",
           "inputType": "regexp",
           "output": "woman",
           "caseSensitive": true
         },
         {
-          "input": "\\bMan(?=ly\\b|\\b)",
+          "input": "(?<!\\baw |\\boh )\\bMan(?=ly\\b|\\b)",
           "inputType": "regexp",
           "output": "Woman",
-          "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\baw|\\boh)(?=man\\b)",
-          "inputType": "regexp",
-          "output": " ",
           "caseSensitive": false
         },
         {
