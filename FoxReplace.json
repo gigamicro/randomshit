@@ -885,6 +885,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Harold",
+          "inputType":"wholewords",
+          "output":"Harriet",
+          "caseSensitive":false
+        },
+        {
           "input":"Harry",
           "inputType":"wholewords",
           "output":"Harriet",
