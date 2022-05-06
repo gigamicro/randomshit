@@ -561,6 +561,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Caleb",
+          "inputType":"wholewords",
+          "output":"Carla",
+          "caseSensitive":false
+        },
+        {
           "input":"Cecil",
           "inputType":"wholewords",
           "output":"Cecilia",
@@ -1200,6 +1206,18 @@
           "input":"Norbert",
           "inputType":"wholewords",
           "output":"Norberta",
+          "caseSensitive":false
+        },
+        {
+          "input":"Bert",
+          "inputType":"wholewords",
+          "output":"Berta",
+          "caseSensitive":false
+        },
+        {
+          "input":"Burt",
+          "inputType":"wholewords",
+          "output":"Berta",
           "caseSensitive":false
         },
         {
