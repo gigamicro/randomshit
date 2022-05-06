@@ -246,6 +246,18 @@
           "caseSensitive": false
         },
         {
+          "input": "\\bdude(?=s\\b|\\b)",
+          "inputType": "regexp",
+          "output": "girl",
+          "caseSensitive": true
+        },
+        {
+          "input": "\\bDude(?=s\\b|\\b)",
+          "inputType": "regexp",
+          "output": "Girl",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\bg)uy\\b",
           "inputType": "regexp",
           "output": "irl",
