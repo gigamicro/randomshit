@@ -393,6 +393,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Abraham",
+          "inputType":"wholewords",
+          "output":"Abrianne",
+          "caseSensitive":false
+        },
+        {
+          "input":"Abe",
+          "inputType":"wholewords",
+          "output":"Bri",
+          "caseSensitive":false
+        },
+        {
           "input":"Adam",
           "inputType":"wholewords",
           "output":"Adaline",
