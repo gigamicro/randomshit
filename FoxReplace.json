@@ -1635,6 +1635,15 @@
       "html": "none",
       "enabled": true,
       "mode": "auto&manual"
+    },
+    {
+      "name": "For fun",
+      "urls": [],
+      "substitutions": [
+      ],
+      "html": "none",
+      "enabled": false,
+      "mode": "auto&manual"
     }
   ]
 }
