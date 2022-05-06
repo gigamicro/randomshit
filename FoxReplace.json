@@ -411,6 +411,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Al",
+          "inputType":"wholewords",
+          "output":"Alva",
+          "caseSensitive":false
+        },
+        {
           "input":"Alan",
           "inputType":"wholewords",
           "output":"Alana",
