@@ -1269,6 +1269,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Phil",
+          "inputType":"wholewords",
+          "output":"Pip",
+          "caseSensitive":false
+        },
+        {
           "input":"Rafael",
           "inputType":"wholewords",
           "output":"Rafaela",
