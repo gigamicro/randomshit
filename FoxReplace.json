@@ -1620,6 +1620,15 @@
       "html": "none",
       "enabled": true,
       "mode": "auto&manual"
+    },
+    {
+      "name": "Fix grammar",
+      "urls": [],
+      "substitutions": [
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
     }
   ]
 }
