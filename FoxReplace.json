@@ -1640,6 +1640,12 @@
       "name": "For fun",
       "urls": [],
       "substitutions": [
+        {
+          "input": "straight",
+          "inputType": "wholewords",
+          "output": "gay",
+          "caseSensitive": false
+        }
       ],
       "html": "none",
       "enabled": false,
