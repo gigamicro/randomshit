@@ -54,6 +54,12 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\bprince)\\b",
+          "inputType": "regexp",
+          "output": "ss",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\bl|\\bmil)ord\\b",
           "inputType": "regexp",
           "output": "ady",
