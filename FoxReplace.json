@@ -1511,6 +1511,18 @@
         {
           "input":"Zachary",
           "inputType":"wholewords",
+          "output":"Carry",
+          "caseSensitive":false
+        },
+        {
+          "input":"Zach",
+          "inputType":"wholewords",
+          "output":"Cari",
+          "caseSensitive":false
+        },
+        {
+          "input":"Zack",
+          "inputType":"wholewords",
           "output":"Cary",
           "caseSensitive":false
         }
