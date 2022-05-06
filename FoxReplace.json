@@ -801,9 +801,21 @@
           "caseSensitive":true
         },
         {
-          "input":"Fred",
+          "input":"Frederick",
           "inputType":"wholewords",
-          "output":"Freda",
+          "output":"Frederica",
+          "caseSensitive":false
+        },
+        {
+          "input":"Friedrich",
+          "inputType":"wholewords",
+          "output":"Friederica",
+          "caseSensitive":false
+        },
+        {
+          "input":"Fredrik",
+          "inputType":"wholewords",
+          "output":"Fredrika",
           "caseSensitive":false
         },
         {
@@ -813,15 +825,9 @@
           "caseSensitive":false
         },
         {
-          "input":"Frederick",
+          "input":"Fred",
           "inputType":"wholewords",
-          "output":"Frederica",
-          "caseSensitive":false
-        },
-        {
-          "input":"Fredrik",
-          "inputType":"wholewords",
-          "output":"Fredrika",
+          "output":"Freda",
           "caseSensitive":false
         },
         {
