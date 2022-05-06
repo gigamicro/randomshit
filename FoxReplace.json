@@ -60,6 +60,18 @@
           "caseSensitive": false
         },
         {
+          "input": "king",
+          "inputType": "regexp",
+          "output": "queen",
+          "caseSensitive": true
+        },
+        {
+          "input": "King",
+          "inputType": "regexp",
+          "output": "Queen",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\bl|\\bmil)ord\\b",
           "inputType": "regexp",
           "output": "ady",
