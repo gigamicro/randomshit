@@ -1625,6 +1625,12 @@
       "name": "Fix grammar",
       "urls": [],
       "substitutions": [
+        {
+          "input": "women and women",
+          "inputType": "wholewords",
+          "output": "women",
+          "caseSensitive": false
+        }
       ],
       "html": "none",
       "enabled": true,
