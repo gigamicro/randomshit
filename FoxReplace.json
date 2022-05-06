@@ -153,7 +153,7 @@
           "input": "(?<=\\bgram)p(?=s\\b)",
           "inputType": "regexp",
           "output": "",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "(?<=\\b[gG]rand|\\b)pa(?=s?\\b)",
