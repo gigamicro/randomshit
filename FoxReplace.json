@@ -162,19 +162,19 @@
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)pa(?=s?\\b)",
+          "input": "(?<=\\b[gG]rand|\\b)pa(?=s?\\b)",
           "inputType": "regexp",
           "output": "ma",
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)papa(?=s?\\b)",
+          "input": "(?<=\\b[gG]rand|\\b)papa(?=s?\\b)",
           "inputType": "regexp",
           "output": "mama",
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\b(?:[gG]reat-?|[gG]rand-?)*)father(?=(?:s|ly|)\\b)",
+          "input": "(?<=\\b[gG]rand|\\b)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
