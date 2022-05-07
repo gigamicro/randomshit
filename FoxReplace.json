@@ -282,7 +282,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bg)uy\\b",
+          "input": "(?<=\\bg)uy\\b(?! wire)",
           "inputType": "regexp",
           "output": "irl",
           "caseSensitive": false
