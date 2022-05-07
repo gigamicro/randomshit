@@ -747,8 +747,8 @@
           "caseSensitive":false
         },
         {
-          "input":"Don",
-          "inputType":"wholewords",
+          "input":"\\bDon\\b(?!')",
+          "inputType":"regexp",
           "output":"Dona",
           "caseSensitive":false
         },
