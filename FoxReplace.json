@@ -747,7 +747,7 @@
           "caseSensitive":false
         },
         {
-          "input":"\\bDon\\b(?!\S)",
+          "input":"\\bDon\\b(?!\\S)",
           "inputType":"regexp",
           "output":"Dona",
           "caseSensitive":false
