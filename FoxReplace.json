@@ -1434,7 +1434,7 @@
           "input":"Rocky",
           "inputType":"wholewords",
           "output":"Rachel",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Roger(?! \\w)",
