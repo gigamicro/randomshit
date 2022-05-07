@@ -627,6 +627,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Chris",
+          "inputType":"wholewords",
+          "output":"Tina",
+          "caseSensitive":false
+        },
+        {
           "input":"Clarence",
           "inputType":"wholewords",
           "output":"Clara",
@@ -738,6 +744,12 @@
           "input":"Donald",
           "inputType":"wholewords",
           "output":"Donna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Don",
+          "inputType":"wholewords",
+          "output":"Dona",
           "caseSensitive":false
         },
         {
@@ -972,6 +984,12 @@
           "input":"Jacob",
           "inputType":"wholewords",
           "output":"Jacoba",
+          "caseSensitive":false
+        },
+        {
+          "input":"Jake",
+          "inputType":"wholewords",
+          "output":"Coba",
           "caseSensitive":false
         },
         {
@@ -1242,6 +1260,18 @@
           "input":"Nasir",
           "inputType":"wholewords",
           "output":"Nasira",
+          "caseSensitive":false
+        },
+        {
+          "input":"Nathan",
+          "inputType":"wholewords",
+          "output":"Natalie",
+          "caseSensitive":false
+        },
+        {
+          "input":"Nate",
+          "inputType":"wholewords",
+          "output":"Nat",
           "caseSensitive":false
         },
         {
@@ -1521,6 +1551,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Steve",
+          "inputType":"wholewords",
+          "output":"Steph",
+          "caseSensitive":false
+        },
+        {
           "input":"Theodore",
           "inputType":"wholewords",
           "output":"Theodora",
@@ -1539,9 +1575,27 @@
           "caseSensitive":false
         },
         {
+          "input":"Tim",
+          "inputType":"wholewords",
+          "output":"Thea",
+          "caseSensitive":false
+        },
+        {
           "input":"Tommy",
           "inputType":"wholewords",
           "output":"Tessie",
+          "caseSensitive":false
+        },
+        {
+          "input":"Tom",
+          "inputType":"wholewords",
+          "output":"Tess",
+          "caseSensitive":false
+        },
+        {
+          "input":"Trevor",
+          "inputType":"wholewords",
+          "output":"Taylor",
           "caseSensitive":false
         },
         {
