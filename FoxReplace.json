@@ -61,13 +61,13 @@
         },
         {
           "input": "king",
-          "inputType": "regexp",
+          "inputType": "wholewords",
           "output": "queen",
           "caseSensitive": true
         },
         {
           "input": "King",
-          "inputType": "regexp",
+          "inputType": "wholewords",
           "output": "Queen",
           "caseSensitive": false
         },
