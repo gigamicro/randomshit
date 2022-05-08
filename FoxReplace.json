@@ -1671,6 +1671,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Bill",
+          "inputType":"wholewords",
+          "output":"Billie",
+          "caseSensitive":false
+        },
+        {
           "input":"Yves",
           "inputType":"wholewords",
           "output":"Yvette",
