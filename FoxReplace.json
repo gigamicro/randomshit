@@ -1299,6 +1299,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Nicolas",
+          "inputType":"wholewords",
+          "output":"Nicole",
+          "caseSensitive":false
+        },
+        {
           "input":"Nick",
           "inputType":"wholewords",
           "output":"Nicki",
