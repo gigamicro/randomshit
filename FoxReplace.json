@@ -1668,7 +1668,7 @@
           "input":"Will",
           "inputType":"wholewords",
           "output":"Wilma",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Bill",
