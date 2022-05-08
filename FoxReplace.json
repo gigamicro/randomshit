@@ -765,6 +765,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Edgar",
+          "inputType":"wholewords",
+          "output":"Edna",
+          "caseSensitive":false
+        },
+        {
           "input":"Edward",
           "inputType":"wholewords",
           "output":"Edith",
