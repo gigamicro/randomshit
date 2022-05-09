@@ -192,7 +192,7 @@
           "caseSensitive": true
         },
         {
-          "input": "(?<=\\b[gG]rand|\\b)father(?=(?:s|ly|)\\b)",
+          "input": "(?<=\\b[gG]rand|\\b[gG]od|\\b)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
