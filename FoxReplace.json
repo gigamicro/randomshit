@@ -9,7 +9,8 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bh)(?:im|is)(?=self\\b|\\b)",
+          "input": "(?<=\\bh)i[ms](?=self\\b|\\b)",
+          "zxcInput": "h(im)|h(is)|h(im)self",
           "inputType": "regexp",
           "output": "er",
           "caseSensitive": false
