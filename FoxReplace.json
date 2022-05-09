@@ -1685,19 +1685,13 @@
         {
           "input":"William",
           "inputType":"wholewords",
-          "output":"Willow",
+          "output":"Wilma",
           "caseSensitive":false
         },
         {
-          "input":"(?<!\\b\\.\\s*)\\bWill\\b",
+          "input":"\\bWill\\b(?![ \\t]\\w)",
           "inputType":"regexp",
-          "output":"Wilma",
-          "caseSensitive":true
-        },
-        {
-          "input":"\\bWill,",
-          "inputType":"regexp",
-          "output":"Wilma",
+          "output":"Willow",
           "caseSensitive":true
         },
         {
