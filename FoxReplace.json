@@ -1689,8 +1689,14 @@
           "caseSensitive":false
         },
         {
-          "input":"Will",
-          "inputType":"wholewords",
+          "input":"(?<!\\b\\.\\s*)\\bWill\\b",
+          "inputType":"regexp",
+          "output":"Wilma",
+          "caseSensitive":true
+        },
+        {
+          "input":"\\bWill,",
+          "inputType":"regexp",
           "output":"Wilma",
           "caseSensitive":true
         },
