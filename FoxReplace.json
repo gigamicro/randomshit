@@ -555,6 +555,24 @@
           "caseSensitive":false
         },
         {
+          "input":"Barnabus",
+          "inputType":"wholewords",
+          "output":"Barbara",
+          "caseSensitive":false
+        },
+        {
+          "input":"Barnabas",
+          "inputType":"wholewords",
+          "output":"Barbara",
+          "caseSensitive":false
+        },
+        {
+          "input":"Barry",
+          "inputType":"wholewords",
+          "output":"Barb",
+          "caseSensitive":false
+        },
+        {
           "input":"Benjamin",
           "inputType":"wholewords",
           "output":"Jamina",
