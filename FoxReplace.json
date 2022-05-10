@@ -556,6 +556,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Arthur",
+          "inputType":"wholewords",
+          "output":"Artis",
+          "caseSensitive":false
+        },
+        {
           "input":"August",
           "inputType":"wholewords",
           "output":"Augusta",
