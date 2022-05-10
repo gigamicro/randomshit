@@ -193,6 +193,12 @@
           "caseSensitive": true
         },
         {
+          "input": "(?<=\\b[gG]rand|\\b)pappy(?=s?\\b)",
+          "inputType": "regexp",
+          "output": "mammy",
+          "caseSensitive": true
+        },
+        {
           "input": "(?<=\\b[gG]rand|\\b[gG]od|\\b)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
