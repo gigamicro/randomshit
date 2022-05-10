@@ -73,7 +73,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bl|\\bmil)ord\\b",
+          "input": "(?<=\\bl|\\bmil)ord(?=ship\\b|\\b)",
           "inputType": "regexp",
           "output": "ady",
           "caseSensitive": false
