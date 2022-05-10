@@ -199,6 +199,18 @@
           "caseSensitive": true
         },
         {
+          "input": "pops",
+          "inputType": "wholewords",
+          "output": "mum",
+          "caseSensitive": true
+        },
+        {
+          "input": "Pops",
+          "inputType": "wholewords",
+          "output": "Mum",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\b[gG]rand|\\b[gG]od|\\b)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
