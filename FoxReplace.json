@@ -1717,7 +1717,7 @@
           "input":"Bill",
           "inputType":"wholewords",
           "output":"Billie",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Yves",
