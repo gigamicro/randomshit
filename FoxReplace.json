@@ -211,7 +211,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\b[gG]rand|\\b[gG]od|\\b)father(?=(?:s|ly|)\\b)",
+          "input": "(?<=\\b[gG]rand|\\b[gG]od|\\b[sS]tep|\\b)father(?=(?:s|ly|)\\b)",
           "inputType": "regexp",
           "output": "mother",
           "caseSensitive": true
