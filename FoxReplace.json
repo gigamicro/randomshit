@@ -1102,6 +1102,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Joe",
+          "inputType":"wholewords",
+          "output":"Josie",
+          "caseSensitive":false
+        },
+        {
           "input":"Josh",
           "inputType":"wholewords",
           "output":"Jo",
