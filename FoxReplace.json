@@ -1282,6 +1282,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Matt",
+          "inputType":"wholewords",
+          "output":"Maddy",
+          "caseSensitive":false
+        },
+        {
           "input":"Max",
           "inputType":"wholewords",
           "output":"Maxine",
