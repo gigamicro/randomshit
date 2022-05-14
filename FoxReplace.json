@@ -844,6 +844,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Ethan",
+          "inputType":"wholewords",
+          "output":"Cerol",
+          "caseSensitive":false
+        },
+        {
           "input":"Eugene",
           "inputType":"wholewords",
           "output":"Eugenia",
