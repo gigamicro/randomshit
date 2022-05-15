@@ -1246,6 +1246,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Luis",
+          "inputType":"wholewords",
+          "output":"Lois",
+          "caseSensitive":false
+        },
+        {
           "input":"Lucius",
           "inputType":"wholewords",
           "output":"Lucia",
