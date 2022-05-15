@@ -1456,6 +1456,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Pete",
+          "inputType":"wholewords",
+          "output":"Petra",
+          "caseSensitive":false
+        },
+        {
           "input":"Philip",
           "inputType":"wholewords",
           "output":"Philippa",
