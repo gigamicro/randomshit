@@ -1702,6 +1702,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Troy",
+          "inputType":"wholewords",
+          "output":"Ilium",
+          "caseSensitive":false
+        },
+        {
           "input":"Tyler",
           "inputType":"wholewords",
           "output":"Tyla",
