@@ -1618,6 +1618,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Shawn",
+          "inputType":"wholewords",
+          "output":"Shawna",
+          "caseSensitive":false
+        },
+        {
           "input":"Simon",
           "inputType":"wholewords",
           "output":"Simone",
