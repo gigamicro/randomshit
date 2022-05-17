@@ -1000,6 +1000,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Gordon",
+          "inputType":"wholewords",
+          "output":"Gwendyn",
+          "caseSensitive":false
+        },
+        {
           "input":"Gregory",
           "inputType":"wholewords",
           "output":"Gregoria",
