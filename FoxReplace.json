@@ -712,6 +712,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Craig",
+          "inputType":"wholewords",
+          "output":"Sela",
+          "caseSensitive":false
+        },
+        {
           "input":"Cyril",
           "inputType":"wholewords",
           "output":"Cyrilla",
