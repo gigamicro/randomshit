@@ -1180,6 +1180,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Keith",
+          "inputType":"wholewords",
+          "output":"Keitha",
+          "caseSensitive":false
+        },
+        {
           "input":"Kevin",
           "inputType":"wholewords",
           "output":"Keva",
