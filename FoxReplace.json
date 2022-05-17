@@ -199,14 +199,14 @@
           "caseSensitive": true
         },
         {
-          "input": "pops",
-          "inputType": "wholewords",
+          "input": "\\bpops\\b(?![ \\t]\\w)",
+          "inputType": "regexp",
           "output": "mum",
           "caseSensitive": true
         },
         {
-          "input": "Pops",
-          "inputType": "wholewords",
+          "input": "\\bPops\\b(?![ \\t]\\w)",
+          "inputType": "regexp",
           "output": "Mum",
           "caseSensitive": false
         },
