@@ -1348,6 +1348,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Mort",
+          "inputType":"wholewords",
+          "output":"Tish",
+          "caseSensitive":false
+        },
+        {
           "input":"Marty",
           "inputType":"wholewords",
           "output":"Ticia",
