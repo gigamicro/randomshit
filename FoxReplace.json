@@ -1036,6 +1036,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Jackson",
+          "inputType":"wholewords",
+          "output":"Jackie",
+          "caseSensitive":true
+        },
+        {
           "input":"Jack",
           "inputType":"wholewords",
           "output":"Jackie",
