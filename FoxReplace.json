@@ -604,6 +604,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Ben",
+          "inputType":"wholewords",
+          "output":"Mina",
+          "caseSensitive":false
+        },
+        {
           "input":"Bernard",
           "inputType":"wholewords",
           "output":"Bernadine",
