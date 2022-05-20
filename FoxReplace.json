@@ -565,7 +565,7 @@
           "input":"August",
           "inputType":"wholewords",
           "output":"Augusta",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Augustine",
