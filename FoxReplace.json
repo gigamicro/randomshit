@@ -640,6 +640,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Bruce",
+          "inputType":"wholewords",
+          "output":"Brucia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Bryce",
+          "inputType":"wholewords",
+          "output":"Brie",
+          "caseSensitive":false
+        },
+        {
           "input":"Carl",
           "inputType":"wholewords",
           "output":"Carla",
@@ -661,6 +673,18 @@
           "input":"Charles",
           "inputType":"wholewords",
           "output":"Charlene",
+          "caseSensitive":false
+        },
+        {
+          "input":"Chester",
+          "inputType":"wholewords",
+          "output":"Chess",
+          "caseSensitive":false
+        },
+        {
+          "input":"Chet",
+          "inputType":"wholewords",
+          "output":"Chess",
           "caseSensitive":false
         },
         {
@@ -787,6 +811,12 @@
           "input":"Dennis",
           "inputType":"wholewords",
           "output":"Denise",
+          "caseSensitive":false
+        },
+        {
+          "input":"Derrick",
+          "inputType":"wholewords",
+          "output":"Derea",
           "caseSensitive":false
         },
         {
