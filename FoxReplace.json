@@ -1774,6 +1774,24 @@
           "caseSensitive":false
         },
         {
+          "input":"Vincent",
+          "inputType":"wholewords",
+          "output":"Vincenza",
+          "caseSensitive":false
+        },
+        {
+          "input":"Vinnie",
+          "inputType":"wholewords",
+          "output":"Vinci",
+          "caseSensitive":false
+        },
+        {
+          "input":"Vince",
+          "inputType":"wholewords",
+          "output":"Vinceta",
+          "caseSensitive":false
+        },
+        {
           "input":"Walter",
           "inputType":"wholewords",
           "output":"Teri",
