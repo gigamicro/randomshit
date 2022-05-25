@@ -682,6 +682,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Cal",
+          "inputType":"wholewords",
+          "output":"Callie",
+          "caseSensitive":false
+        },
+        {
           "input":"Caleb",
           "inputType":"wholewords",
           "output":"Carla",
