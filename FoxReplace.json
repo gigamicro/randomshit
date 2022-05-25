@@ -127,7 +127,7 @@
           "caseSensitive": false
         },
         {
-          "input": "\\bson(?=s?\\b)",
+          "input": "(?<=\\b[gG]rand|\\b)son(?=s?\\b)",
           "inputType": "regexp",
           "output": "daughter",
           "caseSensitive": true
