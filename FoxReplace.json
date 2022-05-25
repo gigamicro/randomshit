@@ -640,6 +640,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Bradley",
+          "inputType":"wholewords",
+          "output":"Bailey",
+          "caseSensitive":false
+        },
+        {
+          "input":"Brad",
+          "inputType":"wholewords",
+          "output":"Aylee",
+          "caseSensitive":false
+        },
+        {
           "input":"Brendan",
           "inputType":"wholewords",
           "output":"Brenda",
