@@ -181,9 +181,21 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\b[gG]rand|\\b)pa(?=s?\\b)",
-          "inputType": "regexp",
+          "input": "pa",
+          "inputType": "wholewords",
           "output": "ma",
+          "caseSensitive": true
+        },
+        {
+          "input": "Pa",
+          "inputType": "wholewords",
+          "output": "Ma",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\b[gG]rand)p(?=as?\\b)",
+          "inputType": "regexp",
+          "output": "m",
           "caseSensitive": true
         },
         {
