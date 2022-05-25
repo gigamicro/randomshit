@@ -343,14 +343,14 @@
           "caseSensitive": true
         },
         {
-          "input": "sir",
-          "inputType": "wholewords",
+          "input": "\\bsirs?\\b",
+          "inputType": "regexp",
           "output": "maam",
           "caseSensitive": true
         },
         {
-          "input": "Sir",
-          "inputType": "wholewords",
+          "input": "\\bSirs?\\b",
+          "inputType": "regexp",
           "output": "Maam",
           "caseSensitive": false
         },
