@@ -850,6 +850,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Dirk",
+          "inputType":"wholewords",
+          "output":"Iili",
+          "caseSensitive":false
+        },
+        {
           "input":"Dominic",
           "inputType":"wholewords",
           "output":"Dominica",
