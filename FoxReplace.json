@@ -91,7 +91,7 @@
           "caseSensitive": false
         },
         {
-          "input": "\\bboy(?=(?:s|ish|)\\b)",
+          "input": "(?<=[a-z]|\\b)boy(?=(?:s|ish|)\\b)",
           "inputType": "regexp",
           "output": "girl",
           "caseSensitive": true
