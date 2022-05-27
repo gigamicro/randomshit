@@ -37,9 +37,9 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bgentle)man\\b",
+          "input": "(?<=\\bgentle)(?=m[ae]n(ly)?\\b)",
           "inputType": "regexp",
-          "output": "woman",
+          "output": "wo",
           "caseSensitive": false
         },
         {
