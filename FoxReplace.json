@@ -1168,6 +1168,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Jeremy",
+          "inputType":"wholewords",
+          "output":"Emmaia",
+          "caseSensitive":false
+        },
+        {
           "input":"Jerry",
           "inputType":"wholewords",
           "output":"Jeri",
