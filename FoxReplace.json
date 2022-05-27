@@ -874,6 +874,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Dylan",
+          "inputType":"wholewords",
+          "output":"Ilian",
+          "caseSensitive":false
+        },
+        {
           "input":"Eduard",
           "inputType":"wholewords",
           "output":"Eduarda",
