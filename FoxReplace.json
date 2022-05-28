@@ -1108,6 +1108,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Isaac",
+          "inputType":"wholewords",
+          "output":"Iza",
+          "caseSensitive":false
+        },
+        {
           "input":"Isidore",
           "inputType":"wholewords",
           "output":"Isidora",
