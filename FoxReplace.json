@@ -1945,9 +1945,10 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "women and women",
-          "inputType": "wholewords",
-          "output": "women",
+          "input": "\\b(?<=women) and women\\b",
+          "inputType": "regexp",
+          "output": "",
+          "caseSensitive": false
           "caseSensitive": false
         },
         {
