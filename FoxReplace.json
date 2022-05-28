@@ -1949,6 +1949,11 @@
           "inputType": "regexp",
           "output": "",
           "caseSensitive": false
+        },
+        {
+          "input": "\\ba (girl) and a girl\\b",
+          "inputType": "regexp",
+          "output": "$1s",
           "caseSensitive": false
         },
         {
