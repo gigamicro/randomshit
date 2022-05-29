@@ -1969,6 +1969,12 @@
           "caseSensitive": false
         },
         {
+          "input": "\\b(she) ?(or|/) ?she\\b",
+          "inputType": "regexp",
+          "output": "$1",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\bDemon L)addy\\b",
           "inputType": "regexp",
           "output": "ord",
