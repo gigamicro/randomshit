@@ -1636,8 +1636,8 @@
           "caseSensitive":false
         },
         {
-          "input":"Ray",
-          "inputType":"wholewords",
+          "input":"\\bRay\\b(?! of\\b)",
+          "inputType":"regexp",
           "output":"Mona",
           "caseSensitive":true
         },
