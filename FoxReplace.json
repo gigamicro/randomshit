@@ -1114,6 +1114,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Howard",
+          "inputType":"wholewords",
+          "output":"Haley",
+          "caseSensitive":false
+        },
+        {
+          "input":"Howie",
+          "inputType":"wholewords",
+          "output":"Haley",
+          "caseSensitive":false
+        },
+        {
           "input":"Ian",
           "inputType":"wholewords",
           "output":"Iana",
