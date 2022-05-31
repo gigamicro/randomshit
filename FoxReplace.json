@@ -844,6 +844,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Derek",
+          "inputType":"wholewords",
+          "output":"Derea",
+          "caseSensitive":false
+        },
+        {
           "input":"Derrick",
           "inputType":"wholewords",
           "output":"Derea",
