@@ -1936,6 +1936,12 @@
           "caseSensitive":true
         },
         {
+          "input":"Xander",
+          "inputType":"wholewords",
+          "output":"Xandra",
+          "caseSensitive":false
+        },
+        {
           "input":"Yves",
           "inputType":"wholewords",
           "output":"Yvette",
