@@ -1702,8 +1702,8 @@
           "caseSensitive":true
         },
         {
-          "input":"Roger(?! \\w)",
-          "inputType":"wholewords",
+          "input":"\\bRoger\\b(?! that)",
+          "inputType":"regexp",
           "output":"Geri",
           "caseSensitive":false
         },
