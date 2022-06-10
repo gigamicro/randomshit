@@ -202,7 +202,7 @@
           "input": "Pa",
           "inputType": "wholewords",
           "output": "Ma",
-          "caseSensitive": false
+          "caseSensitive": true
         },
         {
           "input": "(?<=\\b[gG]rand)p(?=as?\\b)",
