@@ -22,6 +22,12 @@
           "caseSensitive": true
         },
         {
+          "input": "HE",
+          "inputType": "wholewords",
+          "output": "SHE",
+          "caseSensitive": true
+        },
+        {
           "input": "He",
           "inputType": "wholewords",
           "output": "She",
