@@ -826,6 +826,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Dan",
+          "inputType":"wholewords",
+          "output":"Dani",
+          "caseSensitive":false
+        },
+        {
           "input":"Darius",
           "inputType":"wholewords",
           "output":"Daria",
@@ -847,6 +853,12 @@
           "input":"(?<!\\bThe )\\bDean\\b",
           "inputType":"regexp",
           "output":"Deanna",
+          "caseSensitive":false
+        },
+        {
+          "input":"Destin",
+          "inputType":"wholewords",
+          "output":"Destiny",
           "caseSensitive":false
         },
         {
@@ -904,6 +916,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Duncan",
+          "inputType":"wholewords",
+          "output":"Cannina",
+          "caseSensitive":false
+        },
+        {
+          "input":"Dustin",
+          "inputType":"wholewords",
+          "output":"Dustine",
+          "caseSensitive":false
+        },
+        {
           "input":"Dylan",
           "inputType":"wholewords",
           "output":"Ilian",
@@ -941,6 +965,12 @@
         },
         {
           "input":"Emil",
+          "inputType":"wholewords",
+          "output":"Emily",
+          "caseSensitive":false
+        },
+        {
+          "input":"Emmett",
           "inputType":"wholewords",
           "output":"Emily",
           "caseSensitive":false
@@ -1222,6 +1252,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Jay",
+          "inputType":"wholewords",
+          "output":"Cycora",
+          "caseSensitive":false
+        },
+        {
           "input":"Jeffrey",
           "inputType":"wholewords",
           "output":"Freya",
@@ -1451,6 +1487,12 @@
         },
         {
           "input":"Matthew",
+          "inputType":"wholewords",
+          "output":"Madison",
+          "caseSensitive":false
+        },
+        {
+          "input":"Mathew",
           "inputType":"wholewords",
           "output":"Madison",
           "caseSensitive":false
@@ -1924,9 +1966,21 @@
           "caseSensitive":false
         },
         {
+          "input":"Wallace",
+          "inputType":"wholewords",
+          "output":"Ceri",
+          "caseSensitive":false
+        },
+        {
           "input":"Walter",
           "inputType":"wholewords",
           "output":"Teri",
+          "caseSensitive":false
+        },
+        {
+          "input":"Wilbur",
+          "inputType":"wholewords",
+          "output":"Wilbardine",
           "caseSensitive":false
         },
         {
@@ -1938,13 +1992,19 @@
         {
           "input":"Wilhelm",
           "inputType":"wholewords",
-          "output":"Wilhelmina",
+          "output":"Willimine",
           "caseSensitive":false
         },
         {
           "input":"William",
           "inputType":"wholewords",
           "output":"Wilma",
+          "caseSensitive":false
+        },
+        {
+          "input":"Willis",
+          "inputType":"wholewords",
+          "output":"Wilsa",
           "caseSensitive":false
         },
         {
