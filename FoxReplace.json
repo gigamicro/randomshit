@@ -32,6 +32,12 @@
           "inputType": "wholewords",
           "output": "She",
           "caseSensitive": false
+        },
+        {
+          "input": "'im",
+          "inputType": "wholewords",
+          "output": "'er",
+          "caseSensitive": false
         }
       ],
       "html": "none",
