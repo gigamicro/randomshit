@@ -247,6 +247,18 @@
           "caseSensitive": false
         },
         {
+          "input": "da",
+          "inputType": "wholewords",
+          "output": "ma",
+          "caseSensitive": true
+        },
+        {
+          "input": "Da",
+          "inputType": "wholewords",
+          "output": "Ma",
+          "caseSensitive": false
+        },
+        {
           "input": "\\bdad(?=s?\\b)",
           "inputType": "regexp",
           "output": "mom",
