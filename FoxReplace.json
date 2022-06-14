@@ -844,6 +844,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Darren",
+          "inputType":"wholewords",
+          "output":"Daria",
+          "caseSensitive":false
+        },
+        {
           "input":"Dave",
           "inputType":"wholewords",
           "output":"Vina",
