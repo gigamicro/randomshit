@@ -628,6 +628,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Barney",
+          "inputType":"wholewords",
+          "output":"Barbara",
+          "caseSensitive":false
+        },
+        {
           "input":"Barry",
           "inputType":"wholewords",
           "output":"Barb",
