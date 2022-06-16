@@ -1660,6 +1660,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Owen",
+          "inputType":"wholewords",
+          "output":"Gwen",
+          "caseSensitive":false
+        },
+        {
           "input":"Patrick",
           "inputType":"wholewords",
           "output":"Patricia",
