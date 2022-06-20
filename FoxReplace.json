@@ -2101,7 +2101,13 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "\\b(?<=women) and women\\b",
+          "input": "(?<=\\bher)(?= is\\b)",
+          "inputType": "regexp",
+          "output": "s",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\bwomen) and women\\b",
           "inputType": "regexp",
           "output": "",
           "caseSensitive": false
