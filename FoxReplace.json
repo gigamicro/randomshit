@@ -38,6 +38,12 @@
           "inputType": "wholewords",
           "output": "'er",
           "caseSensitive": false
+        },
+        {
+          "input": "'m",
+          "inputType": "wholewords",
+          "output": "'em",
+          "caseSensitive": false
         }
       ],
       "html": "none",
