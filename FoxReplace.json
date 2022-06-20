@@ -55,7 +55,7 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bgentle)(?=m[ae]n(ly)?\\b)",
+          "input": "(?<=\\bgentle|\\bmad)(?=m[ae]n(ly)?\\b)",
           "inputType": "regexp",
           "output": "wo",
           "caseSensitive": false
