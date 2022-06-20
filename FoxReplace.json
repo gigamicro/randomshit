@@ -937,7 +937,7 @@
           "input":"\\bDon\\b(?![^\\w. ]+t)",
           "inputType":"regexp",
           "output":"Dona",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Duncan",
