@@ -79,6 +79,12 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\bprinces)\\b",
+          "inputType": "regexp",
+          "output": "ses",
+          "caseSensitive": false
+        },
+        {
           "input": "king",
           "inputType": "wholewords",
           "output": "queen",
