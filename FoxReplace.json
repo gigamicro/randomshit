@@ -40,9 +40,9 @@
           "caseSensitive": false
         },
         {
-          "input": "'m",
+          "input": " 'm",
           "inputType": "wholewords",
-          "output": "'em",
+          "output": " 'em",
           "caseSensitive": false
         }
       ],
