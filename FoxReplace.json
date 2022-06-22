@@ -115,7 +115,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=[a-z]|\\b)boy(?=(?:s|ish|)\\b)",
+          "input": "(?<=[a-z]|\\b)bo[yi](?=(?:s|ish|)\\b)",
           "inputType": "regexp",
           "output": "girl",
           "caseSensitive": true
