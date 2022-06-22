@@ -2213,12 +2213,6 @@
           "inputType": "regexp",
           "output": "$1",
           "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\bDemon L)addy\\b",
-          "inputType": "regexp",
-          "output": "ord",
-          "caseSensitive": false
         }
       ],
       "html": "none",
@@ -2230,14 +2224,26 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "straight",
+          "input": "(?<=\\bDemon L)ady\\b",
+          "inputType": "regexp",
+          "output": "ord",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\bnot (a )?g)irl\\b",
+          "inputType": "wholewords",
+          "output": "uy",
+          "caseSensitive": false
+        },
+        {
+          "input": "straight----",
           "inputType": "wholewords",
           "output": "gay",
           "caseSensitive": false
         }
       ],
       "html": "none",
-      "enabled": false,
+      "enabled": true,
       "mode": "auto&manual"
     }
   ]
