@@ -1522,6 +1522,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Lukas",
+          "inputType":"wholewords",
+          "output":"Lucia",
+          "caseSensitive":false
+        },
+        {
           "input":"Luke",
           "inputType":"wholewords",
           "output":"Lucia",
