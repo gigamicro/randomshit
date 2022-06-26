@@ -1108,6 +1108,12 @@
           "caseSensitive":true
         },
         {
+          "input":"Franklin",
+          "inputType":"wholewords",
+          "output":"Francesca",
+          "caseSensitive":true
+        },
+        {
           "input":"Frederick",
           "inputType":"wholewords",
           "output":"Frederica",
@@ -1195,6 +1201,12 @@
           "input":"Gordon",
           "inputType":"wholewords",
           "output":"Gwendyn",
+          "caseSensitive":false
+        },
+        {
+          "input":"Gord",
+          "inputType":"wholewords",
+          "output":"Gwen",
           "caseSensitive":false
         },
         {
@@ -1540,6 +1552,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Marco",
+          "inputType":"wholewords",
+          "output":"Marcia",
+          "caseSensitive":false
+        },
+        {
           "input":"\\bMark\\b(?!\\smy|\\sthis|\\sof|\\sit|\\syour|\\son)",
           "inputType":"regexp",
           "output":"Martha",
@@ -1669,6 +1687,12 @@
           "input":"Nigel",
           "inputType":"wholewords",
           "output":"Nigella",
+          "caseSensitive":false
+        },
+        {
+          "input":"Noah",
+          "inputType":"wholewords",
+          "output":"Noelle",
           "caseSensitive":false
         },
         {
