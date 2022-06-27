@@ -259,7 +259,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?!<\\bta-)da\\b",
+          "input": "(?!<\\bta-)\\bda\\b",
           "inputType": "regexp",
           "output": "ma",
           "caseSensitive": true
