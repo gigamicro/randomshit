@@ -2062,6 +2062,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Terry",
+          "inputType":"wholewords",
+          "output":"Teri",
+          "caseSensitive":false
+        },
+        {
           "input":"Theo",
           "inputType":"wholewords",
           "output":"Dora",
