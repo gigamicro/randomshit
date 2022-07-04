@@ -2251,6 +2251,12 @@
           "caseSensitive": false
         },
         {
+          "input": "\\b(girls) and girls\\b",
+          "inputType": "regexp",
+          "output": "$1",
+          "caseSensitive": false
+        },
+        {
           "input": "\\b(nieces) and nieces\\b",
           "inputType": "regexp",
           "output": "$1",
