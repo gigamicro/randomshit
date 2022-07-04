@@ -550,6 +550,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Anders",
+          "inputType":"wholewords",
+          "output":"Andra",
+          "caseSensitive":false
+        },
+        {
+          "input":"Anderson",
+          "inputType":"wholewords",
+          "output":"Andra",
+          "caseSensitive":false
+        },
+        {
           "input":"Andreas",
           "inputType":"wholewords",
           "output":"Andrea",
