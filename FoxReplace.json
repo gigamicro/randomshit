@@ -1408,6 +1408,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Joey",
+          "inputType":"wholewords",
+          "output":"Sephhi",
+          "caseSensitive":false
+        },
+        {
           "input":"John",
           "inputType":"wholewords",
           "output":"Jean",
