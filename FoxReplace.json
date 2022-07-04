@@ -688,6 +688,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Blake",
+          "inputType":"wholewords",
+          "output":"Ebania",
+          "caseSensitive":false
+        },
+        {
           "input":"Bob",
           "inputType":"wholewords",
           "output":"Viv",
