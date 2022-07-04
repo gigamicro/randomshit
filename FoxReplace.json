@@ -1420,6 +1420,20 @@
           "caseSensitive":false
         },
         {
+          "input":"Jonathan",
+          "inputType":"wholewords",
+          "output":"ekánetai",
+          "outputGRC":"εκάίνεται",
+          "caseSensitive":false
+        },
+        {
+          "input":"Johnathan",
+          "inputType":"wholewords",
+          "output":"ekádínetai",
+          "outputGRC":"εκάδίνεται",
+          "caseSensitive":false
+        },
+        {
           "input":"Jon",
           "inputType":"wholewords",
           "output":"Joan",
