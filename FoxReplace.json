@@ -34,15 +34,15 @@
           "caseSensitive": false
         },
         {
-          "input": "'im",
-          "inputType": "wholewords",
-          "output": "'er",
+          "input": "(?<=\\W')im\\b",
+          "inputType": "regexp",
+          "output": "er",
           "caseSensitive": false
         },
         {
-          "input": " 'm",
-          "inputType": "wholewords",
-          "output": " 'em",
+          "input": "(?<=\\W')m\\b",
+          "inputType": "regexp",
+          "output": "em",
           "caseSensitive": false
         }
       ],
