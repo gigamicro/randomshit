@@ -1672,6 +1672,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Montgomery",
+          "inputType":"wholewords",
+          "output":"Mongoneria",
+          "caseSensitive":false
+        },
+        {
+          "input":"Monty",
+          "inputType":"wholewords",
+          "output":"Monna",
+          "caseSensitive":false
+        },
+        {
           "input":"Mortimer",
           "inputType":"wholewords",
           "output":"Morticia",
