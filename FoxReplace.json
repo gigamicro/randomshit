@@ -1422,15 +1422,15 @@
         {
           "input":"Jonathan",
           "inputType":"wholewords",
-          "output":"ekánetai",
-          "outputGRC":"εκάίνεται",
+          "output":"Ekánetai",
+          "outputGRC":"Εκάίνεται",
           "caseSensitive":false
         },
         {
           "input":"Johnathan",
           "inputType":"wholewords",
-          "output":"ekádínetai",
-          "outputGRC":"εκάδίνεται",
+          "output":"Ekádínetai",
+          "outputGRC":"Εκάδίνεται",
           "caseSensitive":false
         },
         {
