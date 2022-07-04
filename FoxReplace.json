@@ -139,7 +139,7 @@
           "caseSensitive": false
         },
         {
-          "input": "\\bbro(?=(?:s|)\\b)",
+          "input": "\\bbro(?=s\\b|\\b)",
           "inputType": "regexp",
           "output": "sis",
           "caseSensitive": true
