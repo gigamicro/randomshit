@@ -1384,6 +1384,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Jerome",
+          "inputType":"wholewords",
+          "output":"Ónoma",
+          "caseSensitive":false
+        },
+        {
           "input":"Jerry",
           "inputType":"wholewords",
           "output":"Jeri",
