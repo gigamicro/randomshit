@@ -1492,6 +1492,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Kev",
+          "inputType":"wholewords",
+          "output":"Keva",
+          "caseSensitive":false
+        },
+        {
           "input":"Kieran",
           "inputType":"wholewords",
           "output":"Kiera",
