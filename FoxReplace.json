@@ -2467,8 +2467,8 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bnot (a )?g)irl\\b",
-          "inputType": "wholewords",
+          "input": "(?<=\\bnot a g)irl\\b",
+          "inputType": "regexp",
           "output": "uy",
           "caseSensitive": false
         },
