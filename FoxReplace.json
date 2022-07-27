@@ -1328,7 +1328,7 @@
           "inputType":"wholewords",
           "output":"Svelta",
           "output?":"Maeve",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Gregory",
