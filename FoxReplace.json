@@ -44,6 +44,12 @@
           "inputType": "regexp",
           "output": "em",
           "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\W')e\\b",
+          "inputType": "regexp",
+          "output": "em",
+          "caseSensitive": false
         }
       ],
       "html": "none",
