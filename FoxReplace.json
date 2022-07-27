@@ -670,6 +670,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Bartholomew",
+          "inputType":"wholewords",
+          "output":"Tolomea",
+          "caseSensitive":false
+        },
+        {
+          "input":"Bart",
+          "inputType":"wholewords",
+          "output":"Mia",
+          "caseSensitive":false
+        },
+        {
           "input":"Benjamin",
           "inputType":"wholewords",
           "output":"Jamina",
@@ -741,6 +753,16 @@
           "output":"Braith",
           "caseSensitive":false
         },
+        {
+          "input":"Brice",
+          "inputType":"wholewords",
+          "output":"Brye",
+          "caseSensitive":false
+        },
+        {
+          "input":"Bryson",
+          "inputType":"wholewords",
+          "output":"Braithder",
           "caseSensitive":false
         },
         {
@@ -822,6 +844,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Clark",
+          "inputType":"wholewords",
+          "output":"Clara",
+          "caseSensitive":false
+        },
+        {
           "input":"Claude",
           "inputType":"wholewords",
           "output":"Claudia",
@@ -831,6 +859,12 @@
           "input":"Clement",
           "inputType":"wholewords",
           "output":"Clementine",
+          "caseSensitive":false
+        },
+        {
+          "input":"Colt",
+          "inputType":"wholewords",
+          "output":"Filia",
           "caseSensitive":false
         },
         {
@@ -1206,9 +1240,27 @@
           "caseSensitive":false
         },
         {
+          "input":"Gareth",
+          "inputType":"wholewords",
+          "output":"Gwaith",
+          "caseSensitive":false
+        },
+        {
           "input":"Gary",
           "inputType":"wholewords",
           "output":"Carrie",
+          "caseSensitive":false
+        },
+        {
+          "input":"Gaston",
+          "inputType":"wholewords",
+          "output":"Elodie",
+          "caseSensitive":false
+        },
+        {
+          "input":"Geoff",
+          "inputType":"wholewords",
+          "output":"Frigga",
           "caseSensitive":false
         },
         {
@@ -1266,6 +1318,13 @@
           "caseSensitive":false
         },
         {
+          "input":"Grant",
+          "inputType":"wholewords",
+          "output":"Svelta",
+          "output?":"Maeve",
+          "caseSensitive":false
+        },
+        {
           "input":"Gregory",
           "inputType":"wholewords",
           "output":"Gregoria",
@@ -1287,6 +1346,12 @@
           "input":"Harry",
           "inputType":"wholewords",
           "output":"Harriet",
+          "caseSensitive":false
+        },
+        {
+          "input":"Harvey",
+          "inputType":"wholewords",
+          "output":"Bevarn",
           "caseSensitive":false
         },
         {
@@ -1386,6 +1451,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Jared",
+          "inputType":"wholewords",
+          "output":"Jasnyĭ",
+          "caseSensitive":false
+        },
+        {
           "input":"Jay",
           "inputType":"wholewords",
           "output":"Cycora",
@@ -1395,6 +1466,12 @@
           "input":"Jeffrey",
           "inputType":"wholewords",
           "output":"Freya",
+          "caseSensitive":false
+        },
+        {
+          "input":"Jerald",
+          "inputType":"wholewords",
+          "output":"Jeraldine",
           "caseSensitive":false
         },
         {
@@ -1413,6 +1490,12 @@
           "input":"Jerry",
           "inputType":"wholewords",
           "output":"Jeri",
+          "caseSensitive":false
+        },
+        {
+          "input":"Jimmy",
+          "inputType":"wholewords",
+          "output":"Ginny",
           "caseSensitive":false
         },
         {
@@ -1680,6 +1763,12 @@
           "inputType":"wholewords",
           "output":"Maddy",
           "caseSensitive":false
+        },
+        {
+          "input":"Maxwell",
+          "inputType":"wholewords",
+          "output":"Maxine",
+          "caseSensitive":true
         },
         {
           "input":"Max",
