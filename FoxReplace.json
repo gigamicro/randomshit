@@ -1026,6 +1026,24 @@
           "caseSensitive":false
         },
         {
+          "input":"Eddy",
+          "inputType":"wholewords",
+          "output":"Charybdis",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ed",
+          "inputType":"wholewords",
+          "output":"Cherry",
+          "caseSensitive":false
+        },
+        {
+          "input":"Edd",
+          "inputType":"wholewords",
+          "output":"Edie",
+          "caseSensitive":false
+        },
+        {
           "input":"Eduard",
           "inputType":"wholewords",
           "output":"Eduarda",
