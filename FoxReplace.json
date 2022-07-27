@@ -271,8 +271,8 @@
           "caseSensitive": true
         },
         {
-          "input": "Da",
-          "inputType": "wholewords",
+          "input": "(?<!\\bta-)\\bDa\\b",
+          "inputType": "regexp",
           "output": "Ma",
           "caseSensitive": false
         },
