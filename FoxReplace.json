@@ -2467,7 +2467,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bnot (a )?g)irl\\b",
+          "input": "(?<=\\bnot[ a]{1,3}g)irl\\b",
           "inputType": "wholewords",
           "output": "uy",
           "caseSensitive": false
