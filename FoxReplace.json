@@ -738,7 +738,9 @@
         {
           "input":"Bryce",
           "inputType":"wholewords",
-          "output":"Brie",
+          "output":"Braith",
+          "caseSensitive":false
+        },
           "caseSensitive":false
         },
         {
