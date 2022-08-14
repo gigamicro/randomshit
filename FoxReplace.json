@@ -721,20 +721,26 @@
         {
           "input":"August",
           "inputType":"wholewords",
-          "output":"Augusta",
+          "output":"Aukusta",
           "caseSensitive":true
         },
         {
           "input":"Augustine",
           "inputType":"wholewords",
-          "output":"Augustina",
+          "output":"Aukustina",
           "caseSensitive":false
         },
         {
           "input":"Augustus",
           "inputType":"wholewords",
-          "output":"Augusta",
+          "output":"Aukusta",
           "caseSensitive":false
+        },
+        {
+          "input":"Austin",
+          "inputType":"wholewords",
+          "output":"Auksti",
+          "caseSensitive":true
         },
         {
           "input":"Barnabus",
