@@ -332,6 +332,18 @@
           "caseSensitive": true
         },
         {
+          "input": "husbands",
+          "inputType": "wholewords",
+          "output": "wives",
+          "caseSensitive": true
+        },
+        {
+          "input": "Husbands",
+          "inputType": "wholewords",
+          "output": "Wives",
+          "caseSensitive": false
+        },
+        {
           "input": "husband",
           "inputType": "wholewords",
           "output": "wife",
