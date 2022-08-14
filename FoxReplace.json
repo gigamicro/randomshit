@@ -1088,7 +1088,7 @@
           "input":"Ed",
           "inputType":"wholewords",
           "output":"Cherry",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Edd",
