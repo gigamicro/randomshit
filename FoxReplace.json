@@ -104,6 +104,18 @@
           "caseSensitive": false
         },
         {
+          "input": "kings",
+          "inputType": "wholewords",
+          "output": "queens",
+          "caseSensitive": true
+        },
+        {
+          "input": "Kings",
+          "inputType": "wholewords",
+          "output": "Queens",
+          "caseSensitive": false
+        },
+        {
           "input": "king",
           "inputType": "wholewords",
           "output": "queen",
