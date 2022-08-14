@@ -1436,7 +1436,6 @@
           "input":"Grant",
           "inputType":"wholewords",
           "output":"Svelta",
-          "output?":"Maeve",
           "caseSensitive":true
         },
         {
