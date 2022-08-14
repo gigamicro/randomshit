@@ -92,7 +92,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bprince)\\b",
+          "input": "(?<=\\bprince)(?=ling|\\b)",
           "inputType": "regexp",
           "output": "ss",
           "caseSensitive": false
