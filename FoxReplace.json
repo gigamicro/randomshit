@@ -332,6 +332,30 @@
           "caseSensitive": true
         },
         {
+          "input": "husbandos",
+          "inputType": "wholewords",
+          "output": "waifus",
+          "caseSensitive": true
+        },
+        {
+          "input": "Husbandos",
+          "inputType": "wholewords",
+          "output": "Waifus",
+          "caseSensitive": false
+        },
+        {
+          "input": "husbando",
+          "inputType": "wholewords",
+          "output": "waifu",
+          "caseSensitive": true
+        },
+        {
+          "input": "Husbando",
+          "inputType": "wholewords",
+          "output": "Waifu",
+          "caseSensitive": false
+        },
+        {
           "input": "husbands",
           "inputType": "wholewords",
           "output": "wives",
