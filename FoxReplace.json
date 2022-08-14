@@ -16,7 +16,7 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bh)is\\b(?!=\\s+\\w)",
+          "input": "(?<=\\bh)is\\b(?!\\s+\\w)",
           "inputType": "regexp",
           "output": "ers",
           "caseSensitive": false
