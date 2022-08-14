@@ -158,7 +158,7 @@
           "caseSensitive": false
         },
         {
-          "input": "\\bbrother(?=(?:s|ly|li\\w+|)\\b)",
+          "input": "(?<=\\b[Ss]tep|\\b)brother(?=(?:s|ly|li\\w+|)\\b)",
           "inputType": "regexp",
           "output": "sister",
           "caseSensitive": true
@@ -170,7 +170,7 @@
           "caseSensitive": false
         },
         {
-          "input": "\\bbro(?=s\\b|\\b)",
+          "input": "(?<=\\b[Ss]tep|\\b)bro(?=s\\b|\\b)",
           "inputType": "regexp",
           "output": "sis",
           "caseSensitive": true
