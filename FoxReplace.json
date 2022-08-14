@@ -563,6 +563,18 @@
           "caseSensitive":false
         },
         {
+          "input":"Ahmad",
+          "inputType":"wholewords",
+          "output":"Jendayi",
+          "caseSensitive":false
+        },
+        {
+          "input":"Aiden",
+          "inputType":"wholewords",
+          "output":"Aguya",
+          "caseSensitive":false
+        },
+        {
           "input":"Al",
           "inputType":"wholewords",
           "output":"Alva",
@@ -572,6 +584,18 @@
           "input":"Alan",
           "inputType":"wholewords",
           "output":"Alana",
+          "caseSensitive":false
+        },
+        {
+          "input":"Alastair",
+          "inputType":"wholewords",
+          "output":"Alaika",
+          "caseSensitive":false
+        },
+        {
+          "input":"Alistair",
+          "inputType":"wholewords",
+          "output":"Alexika",
           "caseSensitive":false
         },
         {
@@ -755,6 +779,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Benji",
+          "inputType":"wholewords",
+          "output":"Batah",
+          "caseSensitive":false
+        },
+        {
           "input":"Ben",
           "inputType":"wholewords",
           "output":"Mina",
@@ -842,6 +872,12 @@
           "input":"Carl",
           "inputType":"wholewords",
           "output":"Carla",
+          "caseSensitive":false
+        },
+        {
+          "input":"Carlos",
+          "inputType":"wholewords",
+          "output":"Sairse",
           "caseSensitive":false
         },
         {
@@ -1343,6 +1379,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Gerard",
+          "inputType":"wholewords",
+          "output":"Tasserd",
+          "caseSensitive":false
+        },
+        {
           "input":"Giovanni",
           "inputType":"wholewords",
           "output":"Giovanna",
@@ -1389,6 +1431,12 @@
           "inputType":"wholewords",
           "output":"Svelta",
           "output?":"Maeve",
+          "caseSensitive":true
+        },
+        {
+          "input":"Graham",
+          "inputType":"wholewords",
+          "output":"Maeve",
           "caseSensitive":true
         },
         {
@@ -1533,6 +1581,12 @@
           "input":"Jeffrey",
           "inputType":"wholewords",
           "output":"Freya",
+          "caseSensitive":false
+        },
+        {
+          "input":"Jeff",
+          "inputType":"wholewords",
+          "output":"Frey",
           "caseSensitive":false
         },
         {
@@ -1856,6 +1910,12 @@
           "caseSensitive":true
         },
         {
+          "input":"Michel",
+          "inputType":"wholewords",
+          "output":"Michele",
+          "caseSensitive":false
+        },
+        {
           "input":"Mitchell",
           "inputType":"wholewords",
           "output":"Michelle",
@@ -1913,6 +1973,12 @@
           "input":"Nate",
           "inputType":"wholewords",
           "output":"Nat",
+          "caseSensitive":false
+        },
+        {
+          "input":"Nathaniel",
+          "inputType":"wholewords",
+          "output":"Dinetae",
           "caseSensitive":false
         },
         {
@@ -2015,6 +2081,12 @@
           "input":"Patrick",
           "inputType":"wholewords",
           "output":"Patricia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Pascal",
+          "inputType":"wholewords",
+          "output":"Pashali",
           "caseSensitive":false
         },
         {
@@ -2204,6 +2276,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Shane",
+          "inputType":"wholewords",
+          "output":"Shana",
+          "caseSensitive":false
+        },
+        {
           "input":"Shaun",
           "inputType":"wholewords",
           "output":"Shauna",
@@ -2249,6 +2327,12 @@
           "input":"Theodore",
           "inputType":"wholewords",
           "output":"Theodora",
+          "caseSensitive":false
+        },
+        {
+          "input":"Ted",
+          "inputType":"wholewords",
+          "output":"Oda",
           "caseSensitive":false
         },
         {
