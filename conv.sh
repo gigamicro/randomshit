@@ -1,0 +1,1 @@
+jq -r '.groups[].substitutions[] | [ "s/", (if .inputType=="wholewords" then ("\\b",(.input | . ),"\\b") else .input end //"" | gsub("/";"\\/")), "/", (.output//"" | gsub("/";"\\/")), "/g", if .caseSensitive then "" else "i" end, ";" ] | add' FoxReplace.json

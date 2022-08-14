@@ -1,0 +1,1 @@
+xclip -sel c -o | perl -p <(. conv.sh) | less
