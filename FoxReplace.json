@@ -1366,6 +1366,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Geoffery",
+          "inputType":"wholewords",
+          "output":"Freyja",
+          "caseSensitive":false
+        },
+        {
           "input":"George",
           "inputType":"wholewords",
           "output":"Georgia",
