@@ -16,14 +16,13 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bh)is\\b(?!\\s+\\w)",
+          "input": "(?<=\\bh)is\\b(?=\\s+[\"'.,])",
           "inputType": "regexp",
           "output": "ers",
           "caseSensitive": false
         },
         {
           "input": "(?<=\\bh)i[ms](?=self\\b|\\b)",
-          "zxcInput": "h(im)|h(is)|h(im)self",
           "inputType": "regexp",
           "output": "er",
           "caseSensitive": false
