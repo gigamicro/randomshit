@@ -469,15 +469,9 @@
           "caseSensitive": false
         },
         {
-          "input": "lad",
-          "inputType": "wholewords",
-          "output": "girl",
-          "caseSensitive": true
-        },
-        {
-          "input": "Lad",
-          "inputType": "wholewords",
-          "output": "Girl",
+          "input": "(?<=\\bla)d\\b",
+          "inputType": "regexp",
+          "output": "ss",
           "caseSensitive": false
         },
         {
