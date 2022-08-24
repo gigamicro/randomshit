@@ -2010,6 +2010,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Miguel",
+          "inputType":"wholewords",
+          "output":"Mikayla",
+          "caseSensitive":false
+        },
+        {
           "input":"Montgomery",
           "inputType":"wholewords",
           "output":"Mongoneria",
