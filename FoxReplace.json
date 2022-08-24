@@ -1006,6 +1006,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Damien",
+          "inputType":"wholewords",
+          "output":"Damiane",
+          "caseSensitive":false
+        },
+        {
           "input":"Damon",
           "inputType":"wholewords",
           "output":"Damona",
