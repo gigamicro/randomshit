@@ -2100,6 +2100,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Nico",
+          "inputType":"wholewords",
+          "output":"Niki",
+          "caseSensitive":true
+        },
+        {
           "input":"Nick",
           "inputType":"wholewords",
           "output":"Nicki",
