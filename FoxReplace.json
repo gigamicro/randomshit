@@ -880,8 +880,8 @@
           "caseSensitive":false
         },
         {
-          "input":"Cal",
-          "inputType":"wholewords",
+          "input":"(?<!\\d )\\bCal\\b",
+          "inputType":"regexp",
           "output":"Callie",
           "caseSensitive":false
         },
