@@ -1222,6 +1222,30 @@
           "caseSensitive":false
         },
         {
+          "input":"Eliot",
+          "inputType":"wholewords",
+          "output":"Elitia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Eliott",
+          "inputType":"wholewords",
+          "output":"Eliotta",
+          "caseSensitive":false
+        },
+        {
+          "input":"Elliot",
+          "inputType":"wholewords",
+          "output":"Ellitia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Elliott",
+          "inputType":"wholewords",
+          "output":"Elliotta",
+          "caseSensitive":false
+        },
+        {
           "input":"Emil",
           "inputType":"wholewords",
           "output":"Emily",
