@@ -1986,6 +1986,12 @@
           "caseSensitive":false
         },
         {
+          "input":"Mick",
+          "inputType":"wholewords",
+          "output":"Kayla",
+          "caseSensitive":false
+        },
+        {
           "input":"Mike",
           "inputType":"wholewords",
           "output":"Chell",
