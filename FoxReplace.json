@@ -1558,6 +1558,24 @@
           "caseSensitive":false
         },
         {
+          "input":"Hubert",
+          "inputType":"wholewords",
+          "output":"Huberta",
+          "caseSensitive":false
+        },
+        {
+          "input":"Hugo",
+          "inputType":"wholewords",
+          "output":"Nuancia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Hugh",
+          "inputType":"wholewords",
+          "output":"Tynne",
+          "caseSensitive":false
+        },
+        {
           "input":"Ian",
           "inputType":"wholewords",
           "output":"Iana",
