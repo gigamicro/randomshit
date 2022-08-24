@@ -2310,6 +2310,12 @@
           "caseSensitive":true
         },
         {
+          "input":"Roland",
+          "inputType":"wholewords",
+          "output":"Mariana",
+          "caseSensitive":true
+        },
+        {
           "input":"\\bRoger\\b(?! that)",
           "inputType":"regexp",
           "output":"Geri",
