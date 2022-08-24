@@ -1492,6 +1492,24 @@
           "caseSensitive":false
         },
         {
+          "input":"Gustave",
+          "inputType":"wholewords",
+          "output":"Gralia",
+          "caseSensitive":false
+        },
+        {
+          "input":"Gustav",
+          "inputType":"wholewords",
+          "output":"Grela",
+          "caseSensitive":false
+        },
+        {
+          "input":"Gus",
+          "inputType":"wholewords",
+          "output":"Gria",
+          "caseSensitive":false
+        },
+        {
           "input":"Harold",
           "inputType":"wholewords",
           "output":"Harriet",
