@@ -73,12 +73,6 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<!at|bo+ge?y|cai|chess|crew|da|fresh|hu|journey|lay|li|otto|ro|so|to|wo)(?=m[ae]n(ly)?\\b)",
-          "inputType": "regexp",
-          "output": "wo",
-          "caseSensitive": false
-        },
-        {
           "input": "(?<=\\bmis)ter\\b",
           "inputType": "regexp",
           "output": "s",
@@ -400,6 +394,12 @@
           "input": "(?<!\\baw |\\boh )\\bMan(?=ly\\b|\\b)",
           "inputType": "regexp",
           "output": "Woman",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<!at|bo+ge?y|cai|chess|crew|da|fresh|hu|journey|lay|li|otto|ro|so|to|wo)(?=m[ae]n(ly)?\\b)",
+          "inputType": "regexp",
+          "output": "wo",
           "caseSensitive": false
         },
         {
