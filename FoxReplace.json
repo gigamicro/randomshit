@@ -397,7 +397,19 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<!abdo|at|bo+ge?y|cai|chess|crew|da|fresh|hu|journey|lay|li|otto|ro|so|speci|to|wo)(?=m[ae]n(ly)?\\b)",
+          "input": "men",
+          "inputType": "wholewords",
+          "output": "women",
+          "caseSensitive": true
+        },
+        {
+          "input": "Men",
+          "inputType": "wholewords",
+          "output": "Women",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<!abdo|at|bo+ge?y|cai|chess|crew|da|fresh|hu|journey|lay|li|otto|ro|se|so|speci|to|wo)(?=m[ae]n(ly)?\\b)",
           "inputType": "regexp",
           "output": "wo",
           "caseSensitive": false
@@ -424,18 +436,6 @@
           "input": "(?<=\\bg)uys\\b",
           "inputType": "regexp",
           "output": "als",
-          "caseSensitive": false
-        },
-        {
-          "input": "men",
-          "inputType": "wholewords",
-          "output": "women",
-          "caseSensitive": true
-        },
-        {
-          "input": "Men",
-          "inputType": "wholewords",
-          "output": "Women",
           "caseSensitive": false
         },
         {
