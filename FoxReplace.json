@@ -475,6 +475,12 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\bla)ds\\b",
+          "inputType": "regexp",
+          "output": "sses",
+          "caseSensitive": false
+        },
+        {
           "input": "daddy",
           "inputType": "wholewords",
           "output": "mommy",
