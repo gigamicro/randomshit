@@ -16,7 +16,7 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bh)is\\b(?=\\s*[\"'.,]|\\s+is|\\s+was|\\s+will|\\s+were|\\s+are)",
+          "input": "(?<=\\bh)is\\b(?=\\s*[\"'.,]|\\s+is\\b|\\s+was\\b|\\s+will\\b|\\s+were\\b|\\s+are\\b)",
           "inputType": "regexp",
           "output": "ers",
           "caseSensitive": false
