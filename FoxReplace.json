@@ -331,22 +331,40 @@
           "caseSensitive": false
         },
         {
+          "input": "daad",
+          "inputType": "wholewords",
+          "output": "moom",
+          "caseSensitive": true
+        },
+        {
+          "input": "daaad",
+          "inputType": "wholewords",
+          "output": "mooom",
+          "caseSensitive": true
+        },
+        {
+          "input": "daaaad",
+          "inputType": "wholewords",
+          "output": "moooom",
+          "caseSensitive": true
+        },
+        {
           "input": "Daad",
           "inputType": "wholewords",
           "output": "Moom",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "Daaad",
           "inputType": "wholewords",
           "output": "Mooom",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "Daaaad",
           "inputType": "wholewords",
           "output": "Moooom",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "husbandos",
