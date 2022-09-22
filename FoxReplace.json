@@ -508,7 +508,7 @@
           "input": "Mr",
           "inputType": "wholewords",
           "output": "Ms",
-          "caseSensitive": true
+          "caseSensitive": false
         },
         {
           "input": "\\bsirs?\\b",
