@@ -22,6 +22,12 @@
           "caseSensitive": false
         },
         {
+          "input": "(?<=\\b(?:into|of)\\s+h)is\\b",
+          "inputType": "regexp",
+          "output": "ers",
+          "caseSensitive": false
+        },
+        {
           "input": "(?<=\\bh)i[ms](?=self\\b|\\b)",
           "inputType": "regexp",
           "output": "er",
