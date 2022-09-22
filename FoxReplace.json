@@ -91,7 +91,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=(?<!\\bto |\\ba )\\bm)aster\\b(?! plan\\b)",
+          "input": "(?<=(?<!\\bto |\\ba )\\bm)aster\\b(?! plan\\b| the\\b)",
           "inputType": "regexp",
           "output": "istress",
           "caseSensitive": false
