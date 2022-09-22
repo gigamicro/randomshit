@@ -193,7 +193,13 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\b[gG]rand|\\b)son(?=s?\\b)",
+          "input": "\\bBros\\b",
+          "inputType": "regexp",
+          "output": "Sisses",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\b[gG]rand|\\b[gG]od|\\b[sS]tep|\\b)son(?=s?\\b)",
           "inputType": "regexp",
           "output": "daughter",
           "caseSensitive": true
