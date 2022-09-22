@@ -457,6 +457,18 @@
           "caseSensitive": false
         },
         {
+          "input": "gent",
+          "inputType": "wholewords",
+          "output": "lady",
+          "caseSensitive": true
+        },
+        {
+          "input": "Gent",
+          "inputType": "wholewords",
+          "output": "Lady",
+          "caseSensitive": false
+        },
+        {
           "input": "\\bdude(?=s\\b|\\b)",
           "inputType": "regexp",
           "output": "girl",
