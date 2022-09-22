@@ -175,14 +175,20 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\b[Ss]tep|\\b)bro(?=s\\b|\\b)",
+          "input": "(?<=\\b[Ss]tep|\\b)bro\\b",
           "inputType": "regexp",
           "output": "sis",
           "caseSensitive": true
         },
         {
-          "input": "\\bBro(?=(?:s|)\\b)",
+          "input": "(?<=\\b[Ss]tep|\\b)bros\\b",
           "inputType": "regexp",
+          "output": "sisses",
+          "caseSensitive": true
+        },
+        {
+          "input": "Bro",
+          "inputType": "wholewords",
           "output": "Sis",
           "caseSensitive": false
         },
