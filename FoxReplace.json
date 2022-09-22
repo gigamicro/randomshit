@@ -46,21 +46,27 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\W')im\\b",
+          "input": "(?<=\\W['‘])im(?=self\\b|\\b)",
           "inputType": "regexp",
           "output": "er",
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\W')m\\b",
+          "input": "(?<=\\W['‘])m(?=self\\b|\\b)",
           "inputType": "regexp",
           "output": "em",
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\W')e\\b",
+          "input": "(?<=\\W['‘])is\\b",
           "inputType": "regexp",
-          "output": "em",
+          "output": "er",
+          "caseSensitive": false
+        },
+        {
+          "input": "(?<=\\W)['‘]e\\b",
+          "inputType": "regexp",
+          "output": "she",
           "caseSensitive": false
         }
       ],
