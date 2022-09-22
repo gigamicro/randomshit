@@ -307,13 +307,13 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<!\\bta-)\\bda\\b",
+          "input": "(?<!\\b[Tt]a[ -])\\bda\\b",
           "inputType": "regexp",
           "output": "ma",
           "caseSensitive": true
         },
         {
-          "input": "(?<!\\bta-)\\bDa\\b",
+          "input": "(?<!\\bta[ -])\\bDa\\b",
           "inputType": "regexp",
           "output": "Ma",
           "caseSensitive": false
