@@ -523,7 +523,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bla)d\\b",
+          "input": "(?<=\\bla)dd?(?=\\b|ie\\b)",
           "inputType": "regexp",
           "output": "ss",
           "caseSensitive": false
