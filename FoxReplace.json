@@ -421,13 +421,13 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<!\\baw |\\boh )\\bman(?=ly\\b|\\b)",
+          "input": "(?<!\\baw |\\boh )\\bman(?=ly\\b|hood\\b|\\b)",
           "inputType": "regexp",
           "output": "woman",
           "caseSensitive": true
         },
         {
-          "input": "(?<!\\baw |\\boh )\\bMan(?=ly\\b|\\b)",
+          "input": "(?<!\\baw |\\boh )\\bMan(?=ly\\b|hood\\b|\\b)",
           "inputType": "regexp",
           "output": "Woman",
           "caseSensitive": false
