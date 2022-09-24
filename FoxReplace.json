@@ -16,13 +16,7 @@
       "urls": [],
       "substitutions": [
         {
-          "input": "(?<=\\bh)is\\b(?=\\s*[.,?]|\\s+\\w+[le]d\\b|\\s+is\\b|\\s+was\\b|\\s+were\\b|\\s+when\\b|\\s+are\\b|\\s+and\\b)",
-          "inputType": "regexp",
-          "output": "ers",
-          "caseSensitive": false
-        },
-        {
-          "input": "(?<=\\b(?:into|of)\\s+h)is\\b",
+          "input": "(?<=\\bh)is\\b(?=\\s*[.,?—]|\\s+is\\b|\\s+was\\b|\\s+were\\b|\\s+when\\b|\\s+are\\b|\\s+and\\b)",
           "inputType": "regexp",
           "output": "ers",
           "caseSensitive": false
