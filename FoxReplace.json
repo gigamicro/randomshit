@@ -900,19 +900,19 @@
         {
           "input":"Bryce",
           "inputType":"wholewords",
-          "output":"Braith",
+          "output":"Brye",
           "caseSensitive":false
         },
         {
           "input":"Brice",
           "inputType":"wholewords",
-          "output":"Brye",
+          "output":"Braith",
           "caseSensitive":false
         },
         {
           "input":"Bryson",
           "inputType":"wholewords",
-          "output":"Braithder",
+          "output":"Raithder",
           "caseSensitive":false
         },
         {
@@ -1880,13 +1880,13 @@
         {
           "input":"Kendrick",
           "inputType":"wholewords",
-          "output":"Kendra",
+          "output":"Kendria",
           "caseSensitive":false
         },
         {
           "input":"Kenneth",
           "inputType":"wholewords",
-          "output":"Kendra",
+          "output":"Kendrata",
           "caseSensitive":false
         },
         {
@@ -2024,7 +2024,7 @@
         {
           "input":"Marcus",
           "inputType":"wholewords",
-          "output":"Marcia",
+          "output":"Macuya",
           "caseSensitive":false
         },
         {
@@ -2192,7 +2192,7 @@
         {
           "input":"Nicholas",
           "inputType":"wholewords",
-          "output":"Nicole",
+          "output":"Nicol",
           "caseSensitive":false
         },
         {
@@ -2408,7 +2408,7 @@
         {
           "input":"Rob",
           "inputType":"wholewords",
-          "output":"Robyn",
+          "output":"Erta",
           "caseSensitive":true
         },
         {
@@ -2714,7 +2714,7 @@
         {
           "input":"William",
           "inputType":"wholewords",
-          "output":"Wilma",
+          "output":"Willia",
           "caseSensitive":false
         },
         {
