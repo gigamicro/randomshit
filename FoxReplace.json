@@ -3150,7 +3150,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<=\\bnot a g)irl\\b",
+          "input": "(?<=n[o'‘]t a g)irl\\b",
           "inputType": "regexp",
           "output": "uy",
           "caseSensitive": false
