@@ -3160,6 +3160,18 @@
           "inputType": "wholewords",
           "output": "gay",
           "caseSensitive": false
+        },
+        {
+          "input": "cis----",
+          "inputType": "wholewords",
+          "output": "trans",
+          "caseSensitive": false
+        },
+        {
+          "input": "M----",
+          "inputType": "wholewords",
+          "output": "F",
+          "caseSensitive": false
         }
       ],
       "html": "none",
