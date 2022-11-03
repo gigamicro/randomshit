@@ -445,7 +445,7 @@
           "caseSensitive": false
         },
         {
-          "input": "(?<!abdo|at|a|bo+ge?y|cai|chess|crew|da|fresh|ger|hu|journey|lay|li|nor|otto|o|ra|regi|ro|se|so|speci|talis|to|wo)(?=m[ae]n(ly)?\\b)",
+          "input": "(?<!abdo|at|a|bo+ge?y|cai|chess|crew|da|fresh|ger|hu|journey|lay|li|nor|otto|o|ra|regi|ro|se|so|speci|talis|to|wo|car|os)(?=m[ae]n(ly)?\\b)",
           "inputType": "regexp",
           "output": "wo",
           "caseSensitive": false
