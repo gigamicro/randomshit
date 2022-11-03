@@ -943,7 +943,7 @@
           "input":"Buck",
           "inputType":"wholewords",
           "output":"Phray",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Carl",
