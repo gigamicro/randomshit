@@ -337,8 +337,8 @@
           "caseSensitive": true
         },
         {
-          "input": "daaaad",
-          "inputType": "wholewords",
+          "input": "\\bdaaaa+d\\b",
+          "inputType": "regexp",
           "output": "moooom",
           "caseSensitive": true
         },
@@ -355,8 +355,8 @@
           "caseSensitive": false
         },
         {
-          "input": "Daaaad",
-          "inputType": "wholewords",
+          "input": "\\bDaaaa+d\\b",
+          "inputType": "regexp",
           "output": "Moooom",
           "caseSensitive": false
         },
