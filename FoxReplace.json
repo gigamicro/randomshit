@@ -1129,7 +1129,7 @@
           "input":"Dale",
           "inputType":"wholewords",
           "output":"Dahlia",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Damian",
