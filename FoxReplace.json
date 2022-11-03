@@ -2262,12 +2262,6 @@
           "caseSensitive":true
         },
         {
-          "input":"Max",
-          "inputType":"wholewords",
-          "output":"Maxine",
-          "caseSensitive":true
-        },
-        {
           "input":"Michael",
           "inputType":"wholewords",
           "output":"Michelle",
