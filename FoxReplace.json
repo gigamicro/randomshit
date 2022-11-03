@@ -1660,8 +1660,8 @@
           "caseSensitive":false
         },
         {
-          "input":"Grant",
-          "inputType":"wholewords",
+          "input":"\\bGrant\\b(?! us| our| \\w+ to)",
+          "inputType":"regexp",
           "output":"Svelta",
           "caseSensitive":true
         },
