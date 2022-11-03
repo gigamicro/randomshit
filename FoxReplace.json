@@ -1579,7 +1579,7 @@
           "input":"Gene",
           "inputType":"wholewords",
           "output":"Genne",
-          "caseSensitive":false
+          "caseSensitive":true
         },
         {
           "input":"Geoff",
